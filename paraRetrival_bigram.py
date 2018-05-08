@@ -3,6 +3,7 @@ import nltk
 import numpy as np
 from nltk.corpus import wordnet as wn
 from nltk.corpus import wordnet as wn
+from nltk.corpus import stopwords
 from nltk.stem.wordnet import WordNetLemmatizer
 from sklearn.feature_extraction import DictVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer
@@ -24,8 +25,11 @@ def lmz(word):
 # get bag-of-words from tokenized document
 def get_BOW(text):
     BOW = dict()
+    stop_words = set(stopwords.words('english'))
     for word in text:
         word_lemma = lmz(word)
+        if word_lemma in stop_words:
+            continue
         BOW[word_lemma] = BOW.get(word_lemma,0) + 1
     return BOW
 
@@ -127,7 +131,7 @@ def main_process(testing = False):
             if train_item['answer_paragraph'] in np.argsort(score)[-6:]:
                 success += 1
             length += 1
-        print success * 1.0 / float(length)
+        print('The retrival accuracy is', success * 1.0 / float(length))
     else:
         testing = json.load(open('testing.json'))
         related_para = [None] * len(testing)

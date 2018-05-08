@@ -6,7 +6,7 @@ from sklearn.feature_extraction import DictVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer
 
 '''
-This file is used to retrive relative paragraghs from the article. 
+This file is used to retrive relative paragraghs from the article.
 Using TF-IDF weights, and inverted indexes to speed up the algorithm.
 '''
 
@@ -60,7 +60,7 @@ def main_process(testing = False):
     for doc_index in range(len(doc_dict)):
         vectorizer = DictVectorizer()
         transformer = TfidfTransformer()
-        
+
         term_para_matrix = vectorizer.fit_transform(doc_dict[doc_index])
         tf_idf_matrix_reg_doc[doc_index] = transformer.fit_transform(term_para_matrix)
         transformer_pair[doc_index] = (vectorizer, transformer)
@@ -82,12 +82,12 @@ def main_process(testing = False):
             if train_item['answer_paragraph'] in np.argsort(score)[-5:]:
                 success += 1
             length += 1
-        print success * 1.0 / float(length)
+        print('The retrival accuracy is', success * 1.0 / float(length))
     else:
         testing = json.load(open('testing.json'))
         related_para = [None] * len(testing)
 
-        for test_item in testing:    
+        for test_item in testing:
             question = get_BOW(nltk.word_tokenize(test_item['question']))
             vectorizer, transformer = transformer_pair[test_item['docid']]
             score = [0] * len(doc_dict[test_item['docid']])
@@ -102,6 +102,3 @@ def main_process(testing = False):
 
 if __name__ == '__main__':
     main_process(testing = True)
-
-
-

@@ -4,6 +4,65 @@ import nltk
 from util import *
 import numpy as np
 import json
+def get_tag_set():
+    return {'$':0,
+            '\'\'':1,
+            '(':2,
+            ')':3,
+            ',':4,
+            '--':5,
+            '.':6,
+            ':':7,
+            'CC':8,
+            'CD':9,
+            'DT':10,
+            'EX':11,
+            'FW':12,
+            'IN':13,
+            'JJ':14,
+            'JJR':15,
+            'JJS':16,
+            'LS':17,
+            'MD':18,
+            'NN':19,
+            'NNP':20,
+            'NNPS':21,
+            'NNS':22,
+            'PDT':23,
+            'POS':24,
+            'PRP':25,
+            'PRP$':26,
+            'RB':27,
+            'RBR':28,
+            'RBS':29,
+            'RP':30,
+            'SYM':31,
+            'TO':32,
+            'UH':33,
+            'VB':34,
+            'VBD':35,
+            'VBG':36,
+            'VBN':37,
+            'VBP':38,
+            'VBZ':39,
+            'WDT':40,
+            'WP':41,
+            'WP$':42,
+            'WRB':43,
+            '``':44}
+
+def int_encoded_pos(pos_seq, dict_to_int):
+    seq = list()
+    for tag in pos_seq:
+        if tag not in dict_to_int:
+            dict_to_int[tag] = len(dict_to_int)
+        seq.append(dict_to_int[tag])
+    return seq
+
+def pos_sequence(text):
+    text_tag_pair = nltk.pos_tag(text)
+    tag_seq = [item[-1] for item in text_tag_pair]
+    return tag_seq
 
 def vocabulary_dict(corpus):
     result = dict()
@@ -48,10 +107,10 @@ def to_one_hot(class_num, total_size):
     result[class_num] = 1
     return np.array(result)
 
-def get_index_pair(item):
+def get_index_pair(item, doc):
     para_id = item['answer_paragraph']
     doc_id = item['docid']
-    doc = json.load(open('documents.json'))
+    # doc = json.load(open('documents.json'))
     answer = [lmz(token) for token in nltk.word_tokenize(item['text'])]
     para = [lmz(token) for token in nltk.word_tokenize(doc[doc_id]['text'][para_id])]
 

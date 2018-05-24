@@ -21,10 +21,13 @@ for sents in [all_paras, all_questions]:
 token_to_int_mapping = vocabulary_dict(corpus)
 
 doc = json.load(open('documents.json'))
+tag_to_int_mapping = dict()
 train_para = list()
 train_question = list()
 train_label_start = list()
 train_label_end = list()
+train_pos_para = list()
+train_pos_question = list()
 
 train_items = json.load(open('training.json'))
 for item in train_items:
@@ -37,6 +40,13 @@ for item in train_items:
         padding(questions, question_max_len)
         para = paras[0]
         question = questions[0]
+
+        pos_seq_para = pos_sequence(para)
+        pos_seq_question = pos_sequence(question)
+        train_pos_para.append(int_encoded_pos(pos_seq_para, tag_to_int_mapping))
+        train_pos_question.append(int_encoded_pos(pos_seq_question, tag_to_int_mapping))
+
+
         train_para.append(int_encoded_text(para, token_to_int_mapping))
         train_question.append(int_encoded_text(question, token_to_int_mapping))
         train_label_start.append(to_one_hot(start_index, para_max_len))
@@ -59,9 +69,11 @@ train_label_end = np.array(train_label_end)
 print('preprocessing done...')
 save_obj(token_to_int_mapping, 'token_to_int_mapping')
 save_obj(para_question_len, 'para_question_len')
+save_obj(tag_to_int_mapping, 'tag_to_int_mapping')
 np.savez('train_data.npz', weights = np.array(weights), train_question = np.array(train_question),
            train_para = np.array(train_para), train_label_start = np.array(train_label_start),
-           train_label_end = np.array(train_label_end))
+           train_label_end = np.array(train_label_end), train_pos_para = np.array(train_pos_para),
+           train_pos_question = np.array(train_pos_question))
 print('data saved!')
 
 

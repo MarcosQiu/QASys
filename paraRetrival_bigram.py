@@ -13,7 +13,7 @@ This file is used to retrive relative paragraghs from the article.
 Using TF-IDF weights, and inverted indexes to speed up the algorithm.
 '''
 
-def main_process(fileName = 'training.json',testing = False):
+def main_process(fileName = 'testing.json',testing = False):
     '''
     load documents from json
     [
@@ -54,7 +54,7 @@ def main_process(fileName = 'training.json',testing = False):
         transformer_pair[doc_index] = (vectorizer, transformer)
 
     if testing:
-        train = json.load(open('training.json'))
+        train = json.load(open(fileName))
         success = 0
         length = 0
         for train_item in train:
@@ -78,7 +78,7 @@ def main_process(fileName = 'training.json',testing = False):
             length += 1
         print('The retrival accuracy is', success * 1.0 / float(length))
     else:
-        testing = json.load(open('testing.json'))
+        testing = json.load(open(fileName))
         related_para = [None] * len(testing)
 
         for test_item in testing:

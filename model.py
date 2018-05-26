@@ -1,7 +1,7 @@
 from keras.models import Model
 from keras.layers import Input, Dense, Dropout, Activation
 from keras.layers import Embedding
-from keras.layers import LSTM
+from keras.layers import LSTM, Bidirectional
 from keras.layers import Flatten
 from keras.callbacks import ModelCheckpoint
 from keras.models import load_model
@@ -59,8 +59,8 @@ class lstm_model(object):
         merged_embedded_para = keras.layers.concatenate([embedded_para, embedded_para_pos, inputs_exact_match])
         merged_embedded_question = keras.layers.concatenate([embedded_question, embedded_question_pos])
 
-        lstm_para = LSTM(64, return_sequences = True)(merged_embedded_para)
-        lstm_question = LSTM(64, return_sequences = True)(merged_embedded_question)
+        lstm_para = Bidirectional(LSTM(64, return_sequences = True))(merged_embedded_para)
+        lstm_question = Bidirectional(LSTM(64, return_sequences = True))(merged_embedded_question)
         lstm_para = Flatten()(lstm_para)
         lstm_question = Flatten()(lstm_question)
         merged = keras.layers.concatenate([lstm_para, lstm_question])
@@ -70,7 +70,6 @@ class lstm_model(object):
         self.model.compile(optimizer = 'adam',
                            loss = 'categorical_crossentropy',
                            metrics = ['accuracy'])
-        print(self.model.summary())
 
         # self.model = Sequential()
         # self.model.add(LSTM(1, input_shape=self.input_size, return_sequences = False))
@@ -78,8 +77,6 @@ class lstm_model(object):
         # self.model.add(Dense(self.para_max_len, activation = 'softmax'))
         # self.model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
 
-    def train(self, train_question, train_para, train_question_pos, train_para_pos, inputs_exact_match, train_lables):
-        print(train_question.shape, train_para.shape, train_question_pos.shape, train_para_pos.shape, train_lables.shape)
-        best_model = 'best_model_end.model'
-        checkpoint = ModelCheckpoint(filepath = best_model, verbose = 1, save_best_only = True)
+    def train(self, train_question, train_para, train_question_pos, train_para_pos, inputs_exact_match, train_lables， model_name):
+        checkpoint = ModelCheckpoint(filepath = model_name , verbose = 1, save_best_only = True)
         self.model.fit([train_question, train_para, train_question_pos, train_para_pos, inputs_exact_match], train_lables, batch_size = self.batch_size, epochs = self.epoches, validation_split = 0.1, callbacks = [checkpoint])

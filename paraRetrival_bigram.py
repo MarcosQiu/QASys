@@ -13,21 +13,8 @@ This file is used to retrive relative paragraghs from the article.
 Using TF-IDF weights, and inverted indexes to speed up the algorithm.
 '''
 
-def main_process(fileName = 'testing.json',testing = False):
-    '''
-    load documents from json
-    [
-        {
-            docid: num
-            text: [
-                    para_1,
-                    para_2,
-                    ...
-                ]
-        },
-        ...
-    ]
-    '''
+def main_process(fileName = 'devel.json',testing = False):
+
     doc = json.load(open('documents.json'))
 
     # the bag-of-words representations for each article
@@ -64,16 +51,10 @@ def main_process(fileName = 'testing.json',testing = False):
             score = [0] * len(doc_dict[train_item['docid']])
             word_feature_map = vectorizer.vocabulary_
             for word_from_question in question:
-                flag = True
-                if not not_ambiguous(word_from_question):
-                    flag = False
                 for index in range(len(doc_dict[train_item['docid']])):
                     if word_from_question in doc_dict[train_item['docid']][index]:
-                        if flag:
-                            score[index] += (tf_idf_matrix_reg_doc[train_item['docid']][index, word_feature_map[word_from_question]])
-                        else:
-                            score[index] += (tf_idf_matrix_reg_doc[train_item['docid']][index, word_feature_map[word_from_question]] * 2.0 / 1.6)
-            if train_item['answer_paragraph'] in np.argsort(score)[-6:]:
+                        score[index] += (tf_idf_matrix_reg_doc[train_item['docid']][index, word_feature_map[word_from_question]])
+            if train_item['answer_paragraph'] in np.argsort(score)[-2:]:
                 success += 1
             length += 1
         print('The retrival accuracy is', success * 1.0 / float(length))
@@ -90,7 +71,8 @@ def main_process(fileName = 'testing.json',testing = False):
                 for index in range(len(doc_dict[test_item['docid']])):
                     if word_from_question in doc_dict[test_item['docid']][index]:
                         score[index] += tf_idf_matrix_reg_doc[test_item['docid']][index, word_feature_map[word_from_question]]
-            related_para[test_item['id']] = np.argsort(score)[-5:]
+            related_para[test_item['id']] = np.argsort(score)[-2:]
+        save_obj(related_para, 'related_para_top_2')
         return related_para
 
 

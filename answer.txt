@@ -1,0 +1,3619 @@
+id,answer
+0,de facto HTML
+1,1990 by Sir Tim Berners-Lee
+2,layout engine
+3,1993
+4,2004
+5,1995
+6,1993
+7,browsers support HTTP Secure and offer quick
+8,1993
+9,1990 by Sir Tim Berners-Lee
+10,January 2009
+11,1995
+12,Internet Relay Chat
+13,January 2009
+14,web
+15,January 2003
+16,January 2009
+17,HTTPS
+18,Google Search the default search engine in Firefox
+19,https , file
+20,web
+21,1995
+22,1996
+23,Uniform Resource Identifier
+24,month to month
+25,web feed aggregator
+26,1995
+27,1993
+28,1998
+29,over 7
+30,proprietary web browsers led to the development of non-standard dialects of HTML
+31,Uniform Resource Locator
+32,Mozilla Foundation
+33,World Wide Web , they can also be used to access information
+34,1995
+35,web browsers
+36,named Netscape
+37,JavaScript interpreter
+38,Firefox
+39,pop-up blockers
+40,hyperlinks
+41,August 2011
+42,1996
+43,Favorites
+44,September 2008
+45,Locator
+46,1993
+47,web servers
+48,Mobile Safari
+49,Apple 's Safari had its first beta release in January 2003
+50,web browsers can display a list of web pages
+51,1995
+52,default e-mail
+53,WorldWideWeb
+54,relay route
+55,April 12 , accusing the company 's major shareholder , the LVMH Group
+56,heroic
+57,Islamabad
+58,60
+59,t
+60,2008
+61,Nagano leg
+62,Beijing citizen
+63,Western media have reported on Chinese accusations of Western media bias
+64,Olympic torch relay in Nagano
+65,I
+66,Sanya
+67,Pakistan
+68,10,000
+69,Jackie Chan
+70,controversies
+71,Olympic torch relay in Nagano
+72,Stephen Smith
+73,boycott French hypermart Carrefour
+74,Michèle Alliot-Marie
+75,spectators
+76,2007
+77,Eiffel Tower
+78,April 9
+79,Chinatown
+80,Shoichi Washizawa
+81,1989
+82,Sanya
+83,Wan Chai . A total of 120 torchbearers were
+84,Sanya
+85,red and yellow
+86,French hypermart Carrefour
+87,the 80 torch-bearers
+88,s
+89,Islamabad
+90,newspaper Libération
+91,biased coverage
+92,peaceful in nature
+93,Seoul
+94,The French newspaper Libération
+95,torch route
+96,March 2008 to May 2008 to August 2008
+97,seven anti-China protestors
+98,Uyghurs
+99,censored
+100,Nagano
+101,Vietnam
+102,Sir Steve Redgrave
+103,pro-Tibet protests
+104,Paralympic athlete
+105,supposed to remain lit for the whole relay
+106,pro-Tibet protests
+107,Beijing citizen
+108,Councilor Liu Yandong
+109,48 km
+110,April 11
+111,Jinnah Stadium
+112,relay route
+113,relay route
+114,peaceful protest , never approaching the torch relay itself . Among them was Jane Birkin
+115,Stephen Smith
+116,Macao
+117,novelty inflatable
+118,1964 Tokyo edition
+119,Almaty
+120,Olympic torch relay in Nagano
+121,Uighur
+122,degenerate scum
+123,aluminum
+124,actress Mia Farrow
+125,March 2008
+126,pro-China
+127,April 14
+128,community
+129,deliberate disruptions
+130,May 2
+131,Kuala Lumpur
+132,Lucky Cloud
+133,Temeke , which was built with Chinese aid in 2005
+134,Olympic medalist
+135,Olympic torch relay in Nagano
+136,May 2
+137,the relay
+138,Jacques Rogge
+139,1,000 personnel
+140,1988 Summer Olympics , on April 27
+141,six
+142,pro-Tibet demonstrators
+143,six
+144,enthusiasm calmly
+145,August 8
+146,60
+147,extinguished
+148,April 26 . Japanese Buddhist temple Zenkō-ji
+149,Sanya
+150,relay route
+151,torchbearer
+152,patriotic aspiration
+153,Chinese website for the relay reported `` Indian torchbearers vow
+154,Libération
+155,Văn Hải
+156,2008 Summer Olympics torch relay was run from March 24 until August 8 , 2008
+157,Secretary Hu Jintao
+158,symbolised democracy
+159,six continents from March 2008 to May 2008 to August 2008
+160,Olympics
+161,relay route
+162,Sanya
+163,Konnie Huq
+164,2008
+165,137,000 km
+166,relay
+167,Fu Ying
+168,Susan Prager
+169,tracksuit-clad Chinese security guards . The Chinese officials , seen manhandling
+170,propaganda stunt
+171,International Olympic Committee
+172,relay
+173,Jinnah Stadium
+174,Kazakhstan
+175,on April 6 began at Wembley Stadium
+176,April 26
+177,1964 Tokyo edition
+178,the Tiananmen Square protests of 1989
+179,60
+180,International Olympic Committee
+181,40
+182,Jane Birkin
+183,taekwondo
+184,Olympic torch relay in Nagano
+185,were several protests along the torch relay route
+186,symbolised democracy
+187,April 20 , the People 's Daily published a report entitled `` Overseas
+188,Nagano
+189,April 29
+190,relay route
+191,United States of America : The torch relay 's North American leg
+192,70
+193,120 torchbearers were
+194,137,000 km
+195,Shoichi Washizawa
+196,Olympic
+197,Jane Birkin
+198,relay route
+199,forcefully took away placards
+200,1964 Tokyo edition
+201,Libération
+202,Sha Tin ( crossed Shing Mun River via a dragon boat
+203,demonstrations
+204,Jackie Chan . The entire relay through Mainland China
+205,relay route
+206,April 13
+207,1989
+208,April 3
+209,Malaysian citizenship
+210,six continents from March 2008 to May 2008 to August 2008
+211,Tibet
+212,Nagano
+213,Fu Ying
+214,relay route
+215,Manavjit Singh Sandhu
+216,2,000 and 10,000
+217,torch route be clear of India 's 150,000-strong
+218,China
+219,with anti-boycott demonstrators who insisted on
+220,. She later gave a speech criticizing China 's relations with Sudan in Hong Kong
+221,April 14
+222,relay route . Members of the Hong Kong Alliance in Support of Patriotic
+223,1988 Summer Games . On the day of the torch relay in Seoul
+224,70 runners
+225,pro-democracy activist Szeto Wah , waved novelty inflatable plastic Olympic flames
+226,elaborately planned relay disappeared into a warehouse
+227,Phiếu
+228,silver medalist
+229,Jacques Rogge
+230,the 80 torch-bearers in London , Sir Steve Redgrave
+231,1936 Summer
+232,San Francisco
+233,sacred torch
+234,this event including casino tycoon Stanley Ho
+235,April . The torch arrived in Sanya
+236,20 km from Medeo stadium to Astana Square
+237,seven anti-China
+238,April 12 , accusing the company 's major shareholder , the LVMH Group
+239,route
+240,Almaty
+241,Islamabad
+242,Argentine activists
+243,Paralympic athlete
+244,April 9
+245,20 km
+246,the days
+247,May 3
+248,Stade Charléty
+249,Olympic torch relay in Nagano
+250,Fu Ying
+251,Lucky Cloud
+252,Tibetan flags at
+253,many non-athletes among the torchbearers . ( some of
+254,48 km ( 30 mi
+255,French
+256,April 29
+257,April 9
+258,40
+259,Nursultan Nazarbaev
+260,France : The torch relay leg
+261,April 29
+262,April 26
+263,ignite and extinguish the flame . The torch is fueled by cans of propane
+264,relay route . Members of the Hong Kong Alliance in Support of Patriotic Democratic Movements
+265,Nagano
+266,torchbearers was Syrian actress Sulaf Fawakherji
+267,censored
+268,Saint Petersburg
+269,Muscat
+270,India
+271,April 2
+272,April . The torch arrived in Sanya
+273,symbolised democracy
+274,the days
+275,Stade Charléty
+276,crackdown
+277,patriotic aspiration
+278,Nagano
+279,Macau resident
+280,Narisa Chakrabongse
+281,too
+282,Summer Olympics
+283,May 4
+284,symbolised democracy
+285,Champion Fedor Emelianenko
+286,2008 Summer Olympics torch relay was run from March 24 until August 8 , 2008
+287,Paralympic athlete Jin Jing
+288,Eiffel Tower
+289,Western media have reported on Chinese accusations
+290,April 16
+291,San Francisco , to effectively none
+292,Champion Fedor Emelianenko
+293,forbidden everywhere except on the Trocadéro
+294,Sulaf Fawakherji
+295,forbidden everywhere except on the Trocadéro
+296,partial and censored
+297,: The torch relay leg
+298,days prior to the actual torch relay
+299,Nagano leg
+300,1998
+301,Green Party
+302,IOC
+303,Tibetan independence
+304,relay prior to the Nagano leg
+305,elaborately planned relay disappeared into a warehouse on a waterfront pier
+306,torch around Islamabad
+307,Nagano leg
+308,Sir Steve Redgrave
+309,Hatfield Dodds
+310,137,000 km
+311,Norman Bellingham
+312,actual torch relay
+313,China
+314,April 22 . The original 20 km relay through Jakarta
+315,Seoul
+316,unannounced
+317,2008 Summer
+318,Cheong
+319,Ho
+320,Baichung
+321,Islamabad
+322,March 2008 for its long-standing participation
+323,April 9
+324,2008 Summer Olympics torch relay was run from March 24 until August 8 , 2008
+325,1964 Tokyo edition
+326,30 unarmed attendants selected
+327,Olympic flame was presented by Chinese officials to
+328,37 mile per hour ) winds , and in rain of up to 50 millimetres
+329,in Australia , Japan , South Korea
+330,Nagano
+331,Nagano
+332,Kazakhstan Nursultan Nazarbaev
+333,Kazakhstan
+334,137,000 km
+335,March 2008 for its long-standing participation
+336,United Kingdom , Fu Ying
+337,April 1 , 2008
+338,Nagano
+339,s
+340,Olympic torch relay in Nagano
+341,600 pro-Tibet protesters
+342,pro-Tibet protesters
+343,law student studying in France ,
+344,unannounced
+345,Lucky Cloud
+346,Islamabad
+347,quoted relay spectators
+348,Kamal Nath
+349,March 2008 for its long-standing participation
+350,April 21 . The 16.5
+351,relay route
+352,Paul Danahar
+353,spelling
+354,is about 1,400
+355,frequency
+356,12
+357,indefinite pitch
+358,100 cents
+359,frequency
+360,rapid oscillation
+361,unnecessary
+362,overtones
+363,one interval in common , the octave
+364,A4
+365,partials
+366,12
+367,logarithmic
+368,sound generated
+369,pitch chroma , a
+370,Southampton
+371,Whiteley
+372,1968
+373,Princess Cruises
+374,marinas
+375,120,305 jobs in Southampton , and 3,570
+376,2011
+377,London
+378,UK
+379,1996
+380,over the port of Southampton and the Port of Portsmouth
+381,840
+382,Winchester
+383,Water at the confluence
+384,840 onwards
+385,Volvo Ocean
+386,four
+387,1380 . Roughly half of the walls , 13
+388,Southampton Itchen
+389,2,000
+390,Watermark Westquay
+391,1968
+392,Volvo Ocean Race was based in Southampton 's Ocean Village marina
+393,16
+394,Significant employers in Southampton include The University of Southampton , Southampton Solent University
+395,96th
+396,175th anniversary celebrations
+397,1888
+398,November 2014
+399,annual
+400,1968
+401,1968
+402,Solent University
+403,12th
+404,fortified settlement
+405,1,550
+406,Hamtun
+407,1932 and 1938
+408,pre-war era
+409,John Choules described Southampton thus : `` I hardly
+410,Hamwic
+411,1417
+412,236,900
+413,104
+414,two
+415,cruise
+416,1964
+417,secondary
+418,verbal
+419,Four
+420,1840
+421,1862
+422,follow-up from the WestQuay park
+423,1930s
+424,Art Vaults
+425,1417
+426,1835
+427,1339
+428,500,000
+429,35.6 °C ( 96.1 °F ) since 1976
+430,30 July 2011 after undergoing extensive restoration
+431,Philharmonic Choir
+432,Concert Orchestra , Southampton Philharmonic Choir
+433,1912
+434,27 June 1640
+435,1888
+436,fortified settlement
+437,UK cities
+438,Hampshire Constabulary
+439,South Hampshire
+440,19 miles ( 31 km ) north-west of Portsmouth
+441,855,569
+442,Parkway
+443,marina
+444,2004
+445,seen concerts
+446,Queen Elizabeth
+447,2,300
+448,1968
+449,Uni-link
+450,120,305
+451,passenger service to Hythe on the other side
+452,1952
+453,Town Quay
+454,Buses
+455,Division
+456,1888
+457,tide
+458,P & O
+459,Eastleigh
+460,Hamwic
+461,17,000
+462,2,300
+463,Eastleigh
+464,Solent University
+465,175th anniversary celebrations
+466,27 June 1640
+467,school leavers
+468,Hamtun and then Hampton
+469,12th
+470,circa 1233
+471,Hospital Southampton
+472,Pound Tree Road . This leaves the other terminal of West Quay
+473,£4.2 bn
+474,1888
+475,354
+476,£3,800
+477,M27 motorway
+478,105 and Heart Hampshire
+479,Bargate and some loop round
+480,Philharmonic Choir
+481,October 2011
+482,12th
+483,1380
+484,Mary 2
+485,2004 until his death in 2014
+486,circa 1233
+487,Southampton
+488,St Mary
+489,630
+490,J Mitchell
+491,M271 motorway
+492,Southampton
+493,27 June 1640
+494,1066
+495,Bitterne Manor
+496,two
+497,Ocean Village
+498,fortified settlement
+499,surrounding County
+500,March 2007 there were 120,305
+501,Hampshire Constabulary
+502,32,300
+503,Council estates
+504,£30 million
+505,over 40,000
+506,3rd Baron
+507,1840
+508,1348
+509,Linda Norris . Catherine McEwing
+510,16.2 percent
+511,Philharmonic Choir
+512,Royston Smith
+513,40,000
+514,Le Havre in France
+515,New Forest
+516,1968 and
+517,2012
+518,Hampshire County Council
+519,Royal Princess on 13 June 2013
+520,Solent University
+521,1938
+522,Solent University
+523,14
+524,the world 's largest cruise ships can regularly be seen in Southampton water
+525,2010 , the THES - QS
+526,suspension rate is approximately 1
+527,Theatre
+528,1960s
+529,September
+530,I hardly
+531,48
+532,the ceremonial county of Hampshire on the south coast of England
+533,Walter Taylor 's 18th century mechanisation
+534,two
+535,Solent University together have a student population of over 40,000
+536,French wine
+537,—Richard
+538,Mansbridge
+539,Bournemouth Symphony Orchestra , City of Southampton Orchestra , Southampton Concert Orchestra
+540,4.9 per cent—the tenth
+541,Le Havre
+542,Concert Orchestra
+543,Allen
+544,St
+545,Hampshire Constabulary
+546,2011
+547,500,000
+548,two—east
+549,1348
+550,P & O Cruises 's 175th anniversary celebrations
+551,1835
+552,two
+553,1420
+554,Southampton Airport ( Parkway
+555,archaeology
+556,Boer War . Southampton was designated No . 1 Military Embarkation
+557,Crimean war
+558,23 storeys
+559,Volvo Ocean Race was based in Southampton 's Ocean Village marina
+560,While Southampton
+561,27 years
+562,verbal bullying was the most common form , although physical
+563,1642
+564,500,000
+565,Boer War
+566,three
+567,630
+568,1417
+569,1880s
+570,236,900 people living within the city boundary in 2011 . There is a sizeable Polish
+571,1420
+572,J Mitchell
+573,successive incarnations
+574,on 12
+575,Philharmonic Choir
+576,Trieste in Italy
+577,a shock
+578,1888
+579,2015
+580,concerts
+581,1968
+582,Trieste in Italy
+583,Solent University together have a student population of over 40,000
+584,tonnage
+585,January 2007
+586,South Hampshire
+587,Mary 2
+588,Walter Taylor
+589,40,000
+590,3,570
+591,1952
+592,three
+593,1854
+594,Henry Scrope
+595,48
+596,1938
+597,Heart Hampshire
+598,Hampshire Constabulary
+599,Hampshire County
+600,1760s
+601,1888
+602,over 40,000
+603,2006 by Men 's Fitness magazine
+604,3 million
+605,1 April 1997 , a result of the 1992
+606,2011
+607,Bournemouth Symphony Orchestra , City of Southampton Orchestra , Southampton Concert Orchestra
+608,sizeable Polish
+609,venures
+610,John Hansard Gallery
+611,1964
+612,Concert Orchestra
+613,docks and passenger services as part of the national rail
+614,855,569
+615,27 June 1640
+616,two
+617,27 June 1640
+618,South Hampshire
+619,1842
+620,1938 , is now one of the largest and highly regarded clubs in Hampshire
+621,1830s
+622,West End
+623,1310
+624,630
+625,Water and the Solent by Henry VIII
+626,third most
+627,1642
+628,'Arrival
+629,where Woodmill Bridge separates the tidal and non
+630,three
+631,two—east
+632,Philharmonic Choir
+633,Solent University
+634,circa 1233
+635,Volvo Ocean Race was based in Southampton 's Ocean Village
+636,1976
+637,Monaco
+638,17,000
+639,1944
+640,840
+641,35.6 °C
+642,1310
+643,2011
+644,1066
+645,converge
+646,circa 1233
+647,Hampshire Constabulary
+648,Eastleigh
+649,Park Wood Leisure
+650,175th anniversary celebrations
+651,British Gas
+652,1964
+653,petrochemicals
+654,follow-up from the WestQuay park , called WestQuay
+655,18.5 per cent
+656,Agincourt
+657,failed plan to bring light rail to the Portsmouth and Gosport areas in 2005
+658,Junk ,
+659,Wilts & Dorset
+660,May 1840
+661,48
+662,35th
+663,January 2007 , the average annual salary in the city was £22,267
+664,Southampton Zoo
+665,Enterprise , it is now run by Bluestar
+666,two
+667,civic centre . From there the BBC broadcasts South Today
+668,Royston Smith
+669,dance
+670,1964
+671,Lane
+672,Concert Orchestra , Southampton Philharmonic Choir
+673,the Brook
+674,city
+675,1938
+676,Portsmouth . Southampton
+677,1996 and 2004
+678,Philharmonic Choir
+679,Philharmonic Choir
+680,1420
+681,geothermal power station
+682,Southampton
+683,is Meridian
+684,over 40,000
+685,northern tip of the Southampton Water , a deep water estuary
+686,Red Lion
+687,Le Havre in France
+688,Southamptonshire . This was officially changed to Hampshire in 1959
+689,35.6 °C ( 96.1 °F ) since 1976
+690,southern
+691,1938
+692,frequent rail service
+693,Hampshire Constabulary
+694,1996
+695,1938
+696,40,000
+697,Georgian
+698,Bluestar
+699,1952
+700,1888
+701,Philharmonic Choir
+702,410
+703,February 2011
+704,1879 to 1949
+705,Itchen converge
+706,HMS Grace Dieu
+707,1740
+708,1888
+709,£30
+710,. Reception areas for new cars now fill the Eastern Docks where
+711,March
+712,1888
+713,Hampshire Constabulary
+714,119,500
+715,three percent
+716,3 %
+717,contemporary Saadia Gaon identified Ashkenaz with the Saquliba
+718,Hebrew/Levantine
+719,gravity
+720,genetic subgroup
+721,40 % of the current Ashkenazi population is descended matrilineally from just four
+722,genetic variations have been
+723,Vladimir Ashkenazy
+724,1890s
+725,1990s
+726,the Middle East
+727,97 %
+728,alien
+729,Levant
+730,80
+731,less than 74 %
+732,3 %
+733,40 %
+734,second-class citizens
+735,465 CE
+736,212 CE
+737,Orthodox Jews are
+738,Midrash compilation , Genesis Rabbah , Rabbi Berechiah mentions Ashkenaz
+739,Ashkenazi Jewish family raises her children to be Ashkenazi Jews
+740,Vladimir Ashkenazy
+741,3.3 million Polish
+742,27 % of United States Nobel prize winners in the 20th century
+743,Moroccan Jew
+744,are more diverse
+745,6 million
+746,halakhic
+747,liturgical Ashkenazi Hebrew
+748,fleeting presence of very few Jews , primarily itinerant traders or artisans
+749,Roman Empire
+750,Kabbalah , which many Ashkenazi Jews study outside of the Yeshiva framework
+751,1750
+752,transcend
+753,16th-century mystic Rabbi Elijah of Chelm , Ashkenazi Jews
+754,1095
+755,1394
+756,chromosomes
+757,47.5 %
+758,Yiddishkeit
+759,Ashkenazim
+760,several million to just 400 families who left Northern Italy around the year 1000
+761,ancient Levantine
+762,Middle Ages
+763,addressed the paternal origins of Ashkenazi Jews . Hammer et al
+764,1 Kings 17:9
+765,Roman border
+766,2,500
+767,be traced to the Jews who settled in Central Europe
+768,liturgical Ashkenazi
+769,pre-Christian times
+770,Palestinian Syrians
+771,prayer book
+772,gravity
+773,great majority of Ashkenazi maternal lineages were not brought from the Near East
+774,ecstatic
+775,1000
+776,2006
+777,those Jews who remained in or returned to the German lands experienced a cultural reorientation
+778,rabbinic leadership
+779,Ashkenaz
+780,of the Fertile Crescent
+781,30
+782,Seldin et al . used over five thousand
+783,92 percent of the world 's Jews . Immediately prior to the Holocaust
+784,Jewishness '' in the Yiddish language . Yiddishkeit is specifically the Jewishness
+785,54 % –60 % ) at elevated frequency ( 12.7 %
+786,Ashkenazim
+787,the Fertile Crescent
+788,Hasidic or Hareidi sects , continue to marry exclusively fellow
+789,1290
+790,halakhic questions sent from Germany to Jerusalem during the second half of the 11th
+791,Hasidic or Hareidi sects , continue to marry exclusively fellow
+792,Yiddish emerged
+793,less than 74 %
+794,Yoma
+795,denominated Sefarad
+796,Saadia Gaon identified Ashkenaz with the Saquliba
+797,primary Jewish language for many
+798,Palestinian Syrians
+799,Palestinian Syrians
+800,11th
+801,Ashkenaz
+802,most non-Ashkenazi
+803,12.7 %
+804,92 percent
+805,Jewish merchants
+806,Gomer
+807,80
+808,excluding Indian
+809,Jewishness
+810,8 % of the top
+811,3.3 million Polish Jews ( 91 %
+812,cuneiform Aškuzai/Iškuzai ) , a people who expelled the Cimmerians
+813,Ashkenaz and the country of Ashkenaz
+814,aliyah
+815,Duke University , reported that unlike male Ashkenazi lineages
+816,denominated Sefarad
+817,Vladimir Ashkenazy
+818,Palestinian Syrians
+819,212 CE
+820,Saquliba
+821,Lubavitch Hasidim
+822,reproductively isolated population
+823,Genesis Rabbah
+824,customs , in addition to Halakha
+825,Sir George Airy
+826,12 July 2011
+827,99.5 %
+828,2:3 resonance
+829,Dalain Van
+830,darkened
+831,Dalain
+832,offset
+833,Earth-based telescopes
+834,17
+835,Rahab
+836,brighter
+837,10 K
+838,hydrogen and helium
+839,Dalain Van
+840,the Sun ; whereas Neptune radiates about 2.61
+841,23 September 1846
+842,1992
+843,William Lassell
+844,Flagship orbital
+845,11 July 2011
+846,11.15 m/s2
+847,French Bureau des Longitudes
+848,blue hue , although Neptune 's vivid azure differs from Uranus 's milder cyan
+849,2:3
+850,13500 km
+851,persistent methane clouds
+852,Scooter
+853,Voyager 2
+854,Voyager 2
+855,opaque
+856,Voyager 2
+857,1:1
+858,750
+859,1843
+860,planet
+861,1989
+862,over 50 %
+863,14 known moons . Triton
+864,trojans
+865,2
+866,planet 's place and in convincing astronomers
+867,Le Verrier
+868,1821
+869,0.25 %
+870,roughly 40
+871,19 % helium
+872,50 %
+873,2008 LC18
+874,dissipate
+875,Verrier
+876,17
+877,63,000
+878,1992
+879,lower altitudes
+880,1930
+881,1:1
+882,William Lassell
+883,1:1 resonance
+884,1930
+885,19 % helium
+886,irregularly shaped
+887,2006
+888,12° from
+889,casting shadows
+890,December 1612
+891,14
+892,Jupiter
+893,2:3
+894,63,000
+895,An alternative concept
+896,tilted magnetosphere
+897,50–150 km
+898,Uranus , some unknown atmospheric constituent is thought to contribute to Neptune 's colour
+899,1989
+900,1930
+901,2 discovered six
+902,December 1612
+903,penultimate known planet , except for a 20-year period between 1979 and 1999
+904,vortex structures
+905,50 %
+906,every 164.8
+907,1930
+908,the Kuiper belt
+909,ice giants , Neptune and Uranus
+910,December 1612
+911,icy even though it is a hot , dense fluid
+912,2,100 kilometres
+913,William Lassell
+914,1989
+915,2007 RW10
+916,the atmosphere
+917,weather when compared to Uranus is due in part to its higher internal heating
+918,Gottfried Herder ( 1744–1803 ) argued that human creativity , which necessarily takes unpredictable
+919,folk music
+920,Roman orator Cicero in his Tusculanae Disputationes
+921,material culture . Non-material
+922,Panikkar pointed
+923,haute cuisine
+924,Terror Management Theory posits
+925,29
+926,United States , `` Cultural Studies '' focuses largely on the study of popular culture
+927,folklore
+928,human societies . The word is used in a general sense
+929,class-based distinctions between a high culture of the social elite and a low
+930,anarchy
+931,insignificance
+932,Tylor
+933,Paul Willis , Dick Hebdige
+934,a defining aspect of what it means to be human
+935,United States , Lindlof and Taylor write
+936,literary theory
+937,Wilhelm von Humboldt
+938,late 1970s
+939,Stuart Hall
+940,Non-material
+941,on-campus released
+942,Jefferson
+943,hinged
+944,nonconformists like the Puritans , who were Protestant Christians
+945,Constitution
+946,pervasive
+947,transportation
+948,2006
+949,to
+950,Robert N. Bellah
+951,unlikely partners , '' writes the historian
+952,participation
+953,Elbridge
+954,December 20 , 2005
+955,Rhode Island
+956,modern
+957,theorize
+958,1878 Mormon polygamy case Reynolds
+959,Establishment Clause
+960,1776
+961,Constitution
+962,1773
+963,Ten Commandments as part of a larger display on American legal traditions
+964,Robert S.
+965,403 U.S. 602
+966,1962
+967,constitutional
+968,Joel Village School District v. Grumet ( 1994
+969,Pennsylvania state policy of reimbursing
+970,no-aid
+971,Patrick Henry
+972,establishment clause
+973,Justice Potter Stewart
+974,religious observance
+975,worship freely
+976,Pennsylvania state policy of reimbursing the salaries
+977,5-4 in favor of the Town of Greece by holding that the U.S.
+978,Thomas Jefferson
+979,the federal First Amendment
+980,N. Bellah
+981,not support a charge of religious bigotry
+982,civil right
+983,influential
+984,permissible tests
+985,violation
+986,the modern conception of separation of church
+987,God
+988,2002
+989,1773
+990,Rhode Island
+991,Lemon
+992,Robert N. Bellah
+993,Joel Village School District v. Grumet
+994,Second , the principle or primary effect must be one
+995,constitutions that require state office-holders to have particular religious
+996,John F. Kennedy
+997,South Carolina
+998,churches
+999,Kentucky courthouse
+1000,December 27
+1001,1879
+1002,Patrick Henry
+1003,eighteenth
+1004,Supreme
+1005,Religion and Civil Government is
+1006,of
+1007,1878
+1008,1961 case of Torcaso v. Watkins
+1009,position was the destruction and the governmental rejection
+1010,Thanksgiving
+1011,non-custodial
+1012,2 : in 1789
+1013,393 U.S. 97
+1014,Pennsylvania
+1015,classroom recitation
+1016,Jefferson 's metaphor
+1017,tile
+1018,three
+1019,le Mura . The beautiful apse mosaic of Santa Maria in Trastevere
+1020,1166
+1021,Tiryns ; mosaics of the 4th century BC
+1022,1166
+1023,1982–85
+1024,Justinian 's reign
+1025,as one of the finest examples
+1026,Western-Europe
+1027,1990
+1028,1310–14
+1029,1106–1107
+1030,important Venetian
+1031,6th-century synagogue
+1032,little ship
+1033,Roman mosaic workers are Greek
+1034,Portugal
+1035,a mausoleum
+1036,1982–85
+1037,Mycenean Greece
+1038,demolished
+1039,tesserae
+1040,some restrooms
+1041,545–547
+1042,ceiling mosaics
+1043,1913 the Zliten
+1044,Arta
+1045,1066 to hire expert
+1046,1106–1107
+1047,Judean
+1048,Samaritan synagogue
+1049,heyday
+1050,1922
+1051,Madaba , Jordan
+1052,Domnica
+1053,Edward Burne-Jones
+1054,333 and 390
+1055,three
+1056,compete in magnificence with the churches of Constantinople
+1057,Southern Italy
+1058,mosaics of high artistic quality in 425–430
+1059,Constantine Monomachos
+1060,late Roman mosaics in situ
+1061,539
+1062,Székesfehérvár
+1063,Western-Europe
+1064,chapel
+1065,( huge
+1066,Susiya ( excavated in 1971–72
+1067,vandal
+1068,Western-Europe
+1069,Norman kings
+1070,1982–85
+1071,apse
+1072,1310–14
+1073,Constantinople
+1074,Roger II
+1075,Calçada Portuguesa
+1076,2003
+1077,wall and ceiling
+1078,1310–14
+1079,Islamic architecture used mosaic technique to decorate religious buildings and palaces after the Muslim conquests
+1080,Transfiguration
+1081,above the gate of the church of San Tommaso in Formis showing Christ enthroned
+1082,present-day Jordan
+1083,Mycenean Greece
+1084,1894
+1085,Constantine Monomachos in 1043–1056
+1086,great
+1087,Constantine Monomachos
+1088,Constantine Monomachos in 1043–1056
+1089,Constantinople
+1090,Hellenistic
+1091,The apse mosaic
+1092,1 mm or less ) were set on wax or resin
+1093,eastern-influenced Venice
+1094,Komnenian period was the production of very precious
+1095,Calçada Portuguesa
+1096,River Mureş in present-day Romania
+1097,Bet She'an
+1098,Santa Constanza
+1099,Damascus
+1100,Milan
+1101,San Vitale and Basilica of Sant'Apollinare Nuovo
+1102,novel reinvention
+1103,Roger II
+1104,1122–34
+1105,1305–1313
+1106,1949
+1107,4th century
+1108,large
+1109,1971–72
+1110,1922
+1111,1143
+1112,San Vitale
+1113,French Invader
+1114,1166
+1115,1949
+1116,Constantine Monomachos
+1117,Renaissance
+1118,Thessaloniki
+1119,Domnica
+1120,vaulted room
+1121,San Vitale and Basilica of Sant'Apollinare Nuovo
+1122,Murano
+1123,1913
+1124,Székesfehérvár
+1125,decoration
+1126,St. Louis
+1127,Hosios David
+1128,Emperor Maximian
+1129,San Vitale and Basilica of Sant'Apollinare Nuovo
+1130,10 times faster with higher accuracy
+1131,Triclinio Leoniano
+1132,CAD
+1133,Umayyad mosaic works
+1134,Constantine Monomachos in 1043–1056
+1135,Lebanon
+1136,1971–72
+1137,Paolo Cristofari
+1138,paucity
+1139,Kastron Mefaa
+1140,wall and ceiling mosaics were
+1141,1971–72
+1142,13th century
+1143,Constantine Monomachos in 1043–1056
+1144,1982–85
+1145,figural
+1146,Pergamon
+1147,Constantine Monomachos
+1148,1922
+1149,Mount Sinai in Egypt
+1150,462–472
+1151,Constantine Monomachos
+1152,Fabbrica
+1153,Limoges
+1154,Ravenna
+1155,figural mosaics were also condemned as idolatry
+1156,Zliten
+1157,12th-century mosaic work in Constantinople
+1158,tesserae
+1159,17th–19th centuries
+1160,exotic
+1161,3rd–7th centuries and a multicultural town inhabited by Jews , Christians and pagans
+1162,1982–85
+1163,Calçada Portuguesa
+1164,64 AD
+1165,Portuguese-speaking countries
+1166,Calçada Portuguesa
+1167,three
+1168,Prague got its name from the golden
+1169,Tiryns
+1170,Constantine Monomachos in 1043–1056
+1171,64m
+1172,Tunis
+1173,Ava
+1174,Myanmar
+1175,Australia
+1176,Yangon and Mandalay
+1177,Myanmar is considered to be the literary form of the name of the group
+1178,Upper
+1179,1930s
+1180,Bamar
+1181,Konbaung
+1182,650 Rohingyas
+1183,non-government groups in Rakhine State
+1184,Myanmar
+1185,1770 , and went on to capture Lan Na by 1776
+1186,eastern arc
+1187,Bamar
+1188,Bamar
+1189,government-run
+1190,Maung staged a coup d'état and formed the State Law and Order Restoration Council
+1191,10 %
+1192,16th century , reunified by the Taungoo Dynasty
+1193,Bamar
+1194,indicators continued in September 2012
+1195,Myanmar
+1196,Bamar
+1197,Yangon and Mandalay
+1198,Mrauk U unified the Arakan coastline for the first time in 1437
+1199,Bamar
+1200,Myanmar is operated by the government agency
+1201,Saffron Revolution
+1202,August 2007
+1203,Bamar form an estimated 68 %
+1204,i/ˈmjɑːnˌmɑːr/
+1205,lumber
+1206,400,000 years ago
+1207,1776
+1208,2005
+1209,Mrauk U unified the Arakan coastline for the first time in 1437
+1210,golden
+1211,Bamar
+1212,English by the governments of many countries , such as Australia
+1213,rice , which covers about 60 %
+1214,1599
+1215,Hanthawaddy monarchs
+1216,tangible
+1217,1883
+1218,violations of other intellectual property laws
+1219,civil law
+1220,protection
+1221,intellectual property ranges from discussing its vagueness
+1222,IP protection
+1223,stated objective of most intellectual property law ( with the exception of trademarks
+1224,18 million
+1225,copyright
+1226,file-sharing company
+1227,Richard Stallman
+1228,one year
+1229,wide
+1230,Richard Stallman
+1231,holder
+1232,protection
+1233,legislation
+1234,invention without permission from the patent holder
+1235,infringement
+1236,activist Lawrence Lessig
+1237,The United States
+1238,1994
+1239,vagueness and abstract overreach to direct contention
+1240,propriété intellectuelle
+1241,many jurisdictions
+1242,re-used
+1243,authorship
+1244,period of time
+1245,v
+1246,civil litigation
+1247,specific technological
+1248,life-saving medicines
+1249,1886
+1250,products or services of another business is capable of constituting a
+1251,bargain that
+1252,piracy
+1253,piracy ''
+1254,the singular
+1255,legislators and those who support its implementation appears to be `` absolute protection
+1256,Additionally Congress 's awareness of the
+1257,formalized regulations
+1258,violations of other intellectual property laws
+1259,trademark
+1260,1994
+1261,1791 stated
+1262,May 2011
+1263,1991 (
+1264,Trade secret misappropriation
+1265,stated objective of most intellectual property law ( with the exception of trademarks
+1266,v
+1267,civil law
+1268,1883
+1269,holder
+1270,ever-expansive monopolies
+1271,of trademarks
+1272,intellectual property via its trade organization , the Motion Picture Association of America
+1273,pension-led funding
+1274,infringement
+1275,business assets whose value
+1276,high-tech fields
+1277,orality
+1278,ever-expansive monopolies in the form of copyright extensions
+1279,intellectual-property rights
+1280,Western bias of the written form as more authoritative
+1281,lump together disparate
+1282,the masses
+1283,civil litigation
+1284,censorship system
+1285,piracy
+1286,French
+1287,Captain Viktor Poplonsky
+1288,proper
+1289,1830 Greece
+1290,Kars
+1291,Roman Catholic
+1292,New Russia
+1293,Crimean War also
+1294,:
+1295,Persians
+1296,the French wanted to defer the attack
+1297,84-gun
+1298,7 July 1854
+1299,Omar Pasha
+1300,26 July 1854
+1301,Russia
+1302,4000
+1303,Russians again advanced , crossing the Danube River
+1304,Omar Pasha
+1305,Russia
+1306,120,000
+1307,besieged Sevastopol
+1308,relieving force fell back
+1309,September 1854
+1310,August 1855
+1311,1848
+1312,La Marmora
+1313,84-gun two-deckers and four
+1314,4000
+1315,On 4 August Russian scouts
+1316,William Howard Russell
+1317,equipment
+1318,1857
+1319,encircled the city to the south
+1320,8
+1321,Vienna
+1322,re-appointed Stratford
+1323,Alma river
+1324,Piedmont-Sardinia
+1325,1848
+1326,September he learned of the fall of Sevastopol and a Turkish landing at Batum
+1327,120,000 to 75,000
+1328,three
+1329,Bulgaria
+1330,Alexander II
+1331,12 million
+1332,self-acting
+1333,4000
+1334,Moldavia and Wallachia
+1335,12 July 1855
+1336,Mamelon
+1337,19–31 August 1855
+1338,over 200
+1339,31 December 1853
+1340,forgotten
+1341,no-confidence vote as Parliament voted to appoint a committee to investigate mismanagement of the war
+1342,French
+1343,31 December 1853
+1344,1859
+1345,Lord Raglan
+1346,northern Anatolia
+1347,William Howard Russell
+1348,forgotten
+1349,1855 : Georgian coast : Omar Pasha , the Turkish commander
+1350,and
+1351,Ottoman Empire . :110
+1352,Russian activity and Sir John Burgoyne
+1353,Åland Islands
+1354,1859
+1355,February 1853.:105
+1356,Cardigan
+1357,Paris
+1358,the Russian troops
+1359,Captain Viktor Poplonsky
+1360,28 March 1854
+1361,1854
+1362,snowball riot '' occurred in Trafalgar Square near St. Martin-in-the-Field in which 1,500
+1363,15 June 1826
+1364,newspapers
+1365,Turkish commander
+1366,1854
+1367,casus belli
+1368,Heavy Brigade
+1369,280,000
+1370,in Italy
+1371,France
+1372,Winter
+1373,the west
+1374,Florence Nightingale
+1375,September 1853
+1376,Danube River into the Turkish province of Dobruja . By April 1854
+1377,15 June 1826
+1378,William Howard Russell
+1379,October 1853
+1380,8 February to Burgoyne `` Your
+1381,February 1853
+1382,28 March 1854
+1383,1871 , when France was defeated by Prussia in the Franco-Prussian War of 1870–1871
+1384,Roger Fenton
+1385,4000
+1386,battle
+1387,bombardment commenced—126
+1388,Omar Pasha
+1389,thirty allied transport ships
+1390,Alfred Lord Tennyson
+1391,1855
+1392,5 April 1853
+1393,Wallachia
+1394,William Howard Russell
+1395,15,000
+1396,September 1854
+1397,freeze over like the handful of other ports available in the
+1398,Ottoman-controlled Danubian
+1399,84-gun two-deckers and four
+1400,October 1853
+1401,March 1856
+1402,Baltic
+1403,Oltenița
+1404,1855.:378 Raglan
+1405,Russian batteries
+1406,8 September resulting in the capture of the Malakoff
+1407,harbour . In response an Anglo-French fleet bombarded the port , causing much damage to
+1408,Russia
+1409,Lord Raglan
+1410,September 1854
+1411,failed when Sevastopol
+1412,Lord Raglan
+1413,George Hamilton Seymour
+1414,July 1854
+1415,30 June 1855.:378 Raglan
+1416,Silistra
+1417,annexation
+1418,London
+1419,July 1854 . With the evacuation of the Danubian Principalities
+1420,Times newspaper ) and the photographs of Roger Fenton
+1421,'diplomatic drift ' as the cause of the war
+1422,Oltenița
+1423,5 April 1853
+1424,Kadikoi
+1425,snow
+1426,120-gun ship Rossiya , led by Captain Viktor
+1427,Nicholas
+1428,Azov Sea to undermine Russian communications and supplies to besieged Sevastopol
+1429,St. Martin-in-the-Field in which 1,500
+1430,21 May 1855
+1431,6000 men
+1432,April 1854 an Anglo-French fleet
+1433,Omar Pasha
+1434,8 September resulting in the capture of the Malakoff by the French
+1435,casus belli
+1436,Lord Aberdeen
+1437,June 24 , 1839
+1438,cavalry
+1439,1848
+1440,Russian America
+1441,Austrian Foreign
+1442,1848
+1443,Lord Stratford then turned around and sailed back to Constantinople
+1444,1853
+1445,12
+1446,west if the war continued , Russia sued for peace in March 1856
+1447,four
+1448,September 8000
+1449,1848
+1450,February 1853
+1451,April 1854
+1452,sandy beaches of Calamita Bay on
+1453,1859
+1454,Chetatea or Cetate
+1455,seven columns
+1456,1821
+1457,Greek Orthodox Church
+1458,France
+1459,General Mikhail Gorchakov
+1460,30 March 1856
+1461,5 December 1853
+1462,Lord Raglan
+1463,1000
+1464,besieged Sevastopol
+1465,large-scale
+1466,20000
+1467,Russian protectorate over all 12 million
+1468,280,000
+1469,280,000
+1470,30 November 1853
+1471,7 July 1854
+1472,2nd September
+1473,September 1854
+1474,William Howard Russell
+1475,28 March 1854
+1476,Malakoff
+1477,1859
+1478,October 1853
+1479,zealous Catholic
+1480,a civilian engineering
+1481,30 March 1856
+1482,Russia
+1483,4000
+1484,Alma river and the whole
+1485,Royal
+1486,Saint Petersburg
+1487,A. W
+1488,April 1854
+1489,the treaty agreed to in 1856
+1490,April 1854
+1491,the French
+1492,France
+1493,Russian fleet
+1494,George Hamilton Seymour
+1495,telegraph
+1496,25 October 1854.:521–527
+1497,a minority conquered China for the Qing
+1498,中國 , Zhōngguó
+1499,Prince Yong
+1500,propaganda
+1501,China
+1502,Eight
+1503,1884
+1504,Ming dynasty
+1505,Chinese emperor
+1506,1725
+1507,Ming borders
+1508,Sun Yat-sen
+1509,22
+1510,eight
+1511,China , ruling from 1644 to 1912 with a brief , abortive restoration in 1917
+1512,Qing dynasty
+1513,Chinese : 清朝 ; pinyin
+1514,short
+1515,18th century saw the European empires gradually
+1516,Prince Yong
+1517,queue hairstyle
+1518,Ming dynasty
+1519,prior military
+1520,Chinese military
+1521,300 million
+1522,agnate eldest
+1523,1782
+1524,April 1644
+1525,Li Zicheng then
+1526,embassy at Beijing
+1527,16 % in 1648 , with Han Bannermen dominating at 75 % and Mongol Bannermen
+1528,1716
+1529,tuanlian
+1530,Eight
+1531,1861
+1532,1727
+1533,1725
+1534,Tongzhi Emperor ascended the throne . She , the Empress Dowager Ci'an
+1535,tuanlian
+1536,conquer China
+1537,tuanlian
+1538,the Self-Strengthening Movement
+1539,imperial chancery
+1540,1861 and 1873
+1541,1860
+1542,mid-19th century was the first major instance of anti-Manchu sentiment
+1543,sacking the city as the rebels had done , Dorgon insisted
+1544,Fujian
+1545,Ming
+1546,1875 , Cixi 's nephew , the Guangxu Emperor
+1547,Jiguang
+1548,most
+1549,tuanlian
+1550,maritime trade
+1551,1642
+1552,Manchu landlords
+1553,150 million during the late Ming dynasty
+1554,Hong Taiji
+1555,1644
+1556,Hubei and Hunan
+1557,中國 , Zhōngguó
+1558,Jianzhou
+1559,splitting for example , Huguang into Hubei and Hunan
+1560,1861
+1561,June 6 . The Shunzhi Emperor
+1562,along ethnic lines , namely Manchu
+1563,Qing
+1564,Manchuria and 203,583 hectares
+1565,short-lived Shun dynasty
+1566,1850–1861
+1567,150 million
+1568,Western powers
+1569,Han Chinese
+1570,Eight
+1571,1889
+1572,Prince Yong
+1573,Kangxi Emperor
+1574,Qing response , successful for a time , was in 1756
+1575,Jianzhou
+1576,Hong
+1577,1670
+1578,中國 , Zhōngguó
+1579,Lifan Yuan
+1580,1673-1674 . The Qing had the support of the majority of Han
+1581,Han
+1582,Li Hongzhang
+1583,Ming dynasty
+1584,1945
+1585,Koxinga 's Ming loyalists in Fujian
+1586,Qing navy , composed entirely of wooden sailing junks
+1587,unrest and worsening famine
+1588,scholar-gentry
+1589,Lifan Yuan
+1590,Jiangnan
+1591,Chinese military . The Qing navy , composed entirely of wooden sailing junks
+1592,of the Han Chinese Green
+1593,Western powers , largely unsatisfied with the Treaty of Nanjing , gave grudging
+1594,Ming dynasty (
+1595,1750
+1596,53 cases of literary persecution
+1597,Tongzhi Restoration
+1598,Fujian
+1599,eight years . Wu
+1600,80 %
+1601,Manchu men , on pain of death
+1602,in Jilin
+1603,1861
+1604,splitting for example , Huguang into Hubei and Hunan
+1605,eight years
+1606,Zaifeng gone , Yuan Shikai and his Beiyang commanders effectively dominated Qing politics
+1607,Eight Banners
+1608,Chongzhen Emperor
+1609,16 %
+1610,the worst slaughter .
+1611,High Qing
+1612,Geng
+1613,80 %
+1614,1854
+1615,most significant fact of early and mid-Qing social history was population growth
+1616,Han Chinese
+1617,the Kangxi Emperor 's death in the winter of 1722
+1618,1858
+1619,they dominated Governor-Generalships and Governorships
+1620,中國 , Zhōngguó
+1621,18 provinces
+1622,liangmin
+1623,中國 , Zhōngguó
+1624,queue hairstyle
+1625,Qing
+1626,garments
+1627,short-lived Shun dynasty
+1628,1842
+1629,1716
+1630,three feudal lords and their extensive territories became increasingly autonomous . Finally , in 1673
+1631,1873
+1632,sixty-one year reign
+1633,1905
+1634,Hong
+1635,Li Zicheng
+1636,Chinese : 清朝 ; pinyin : Qīng Cháo ; Wade–Giles : Ch'ing Ch'ao
+1637,Qianlong Emperor
+1638,1644
+1639,1644
+1640,1673
+1641,eighteen provinces ) as well as the areas of present-day
+1642,2,000
+1643,farmed 500,000 hectares
+1644,Chinese military . The Qing navy , composed entirely of wooden sailing junks
+1645,Rehe
+1646,short-lived Shun dynasty
+1647,1884
+1648,bureaucracy
+1649,princes , on making it the dynastic capital and reappointing most Ming officials
+1650,Qing China
+1651,1850–1861
+1652,1673-1674
+1653,Rehe
+1654,Han Bannermen
+1655,Fujian , it was Han Bannermen who
+1656,Cao
+1657,Prince Yong ( 雍親王 ) , became the Yongzheng Emperor
+1658,eighteen provinces ) as well as the areas of present-day
+1659,1854
+1660,Zheng Keshuang , grandson of Koxinga
+1661,semi-retirement
+1662,Upper
+1663,Prince Yong
+1664,square
+1665,1716
+1666,36,304
+1667,five
+1668,imperial heartlands
+1669,viceroys for the Qing after their conquests
+1670,routine administration
+1671,along ethnic lines
+1672,June 6 . The Shunzhi Emperor
+1673,16 % in 1648
+1674,princes
+1675,governor
+1676,Prime Minister Itō Hirobumi and Li Hongzhang
+1677,1884
+1678,April 1644
+1679,June 6
+1680,中國 , Zhōngguó
+1681,1905
+1682,gentleman gourmet
+1683,the Opium War
+1684,1782
+1685,Eight
+1686,Indochina
+1687,China , ruling from 1644 to 1912 with a brief , abortive restoration in 1917
+1688,Nurhaci declared
+1689,a hybrid of local militia
+1690,Opium
+1691,1854
+1692,Outer Mongolia , Tibet and Xinjiang under its control . Imperial commissioners and garrisons
+1693,1642
+1694,haircutting order
+1695,Heaven '' was a daunting task
+1696,Boxers . '' In 1900 , local groups of Boxers proclaiming
+1697,tuanlian
+1698,conquer China
+1699,Han Chinese
+1700,Gapsin
+1701,1870
+1702,Nanjing , gave grudging support to the Qing government during the Taiping and Nian Rebellions
+1703,Wu Sangui 's appeal . Then , after capturing Beijing
+1704,Ming dynasty
+1705,Tongzhi
+1706,cultivation
+1707,eight years
+1708,committed suicide
+1709,conquer China
+1710,the
+1711,Upper
+1712,present-day
+1713,Confucian learning , while the Sacred Edict of 1670
+1714,humiliated emperor died the following year at Rehe
+1715,farmed 500,000 hectares
+1716,1854
+1717,Yongying corps became the Qing government 's de facto first-line
+1718,inherited diplomatic
+1719,1860
+1720,1727
+1721,1856–60
+1722,early Manchu rulers
+1723,Chinese
+1724,1782
+1725,October 30
+1726,culinary esthetics
+1727,10 %
+1728,sunrise and sunset change at roughly equal rates
+1729,DST
+1730,VII
+1731,legal time
+1732,Canadian location observing
+1733,agricultural
+1734,1918
+1735,daylight
+1736,twelve hours regardless
+1737,2007
+1738,artificial light
+1739,2005
+1740,it along with time zone
+1741,Zealander George Hudson
+1742,zoneinfo
+1743,retail businesses
+1744,sleep patterns . Computer software can often adjust clocks automatically
+1745,2011
+1746,sensitive to the timing of
+1747,54.5 %
+1748,saving time
+1749,without `` time '' )
+1750,heart attack
+1751,2011
+1752,TZ
+1753,67 minutes ahead of mean solar time , thus effectively observing daylight saving time year-round
+1754,02:00
+1755,North American mnemonic
+1756,1993
+1757,3.5 %
+1758,21 May 1916
+1759,exploit sunlight
+1760,October 5 but Western Australia shifted on October 26
+1761,3.5
+1762,magnate Gordon Gund
+1763,draft legislation
+1764,then
+1765,3.5 %
+1766,nationwide implementation , starting on 30 April 1916
+1767,67 minutes ahead of mean solar time , thus effectively observing daylight saving time year-round
+1768,computer clocks
+1769,correctly
+1770,02:00
+1771,1987
+1772,30 April 1916
+1773,nine-to-five
+1774,Daylight
+1775,hour
+1776,D synthesis
+1777,morning rush hour traffic occurs before dawn and traffic emissions
+1778,Winston Churchill
+1779,weekly 20-minute transitions—but
+1780,VII
+1781,02:00
+1782,1995
+1783,afternoon sunlight
+1784,02:00
+1785,draft legislation
+1786,morning rush
+1787,zero hours ahead of Pacific Time
+1788,millions
+1789,two
+1790,incandescent lighting
+1791,1916
+1792,one hour ahead
+1793,2007
+1794,fixed work schedules it provides more afternoon sunlight
+1795,UTC ) rather
+1796,synchronization signal
+1797,Ramadan
+1798,motor fuel
+1799,traffic accidents
+1800,1978
+1801,2011
+1802,limitations have caused problems . For example , before 2005
+1803,Chicago
+1804,equator
+1805,zero
+1806,In 1895
+1807,NTFS
+1808,little use for locations
+1809,24:00
+1810,sports , and tourism interests have favored daylight saving
+1811,equatorial Brazil
+1812,Pacific Daylight Time ( PDT
+1813,golf industry revenues $ 200 million to $ 300 million
+1814,NTFS
+1815,golf industry revenues $ 200
+1816,Queensland
+1817,2005
+1818,hour is British
+1819,clock shifts have the obvious disadvantage of complexity
+1820,various jurisdictions
+1821,incandescent lighting , which used to be a primary use of electricity
+1822,farmers oppose DST is that grain is best harvested
+1823,nine-to-five
+1824,ad
+1825,Minneapolis opted
+1826,$ 300 million . A 1999
+1827,enactments
+1828,POSIX
+1829,1995 only , causing problems in later years . In Windows 98
+1830,Daylight Time ( PDT
+1831,two
+1832,dislike
+1833,extra hour
+1834,seasons (
+1835,30 April 1916
+1836,daylight saving
+1837,$ 31 billion on US stock exchanges , the estimated numbers
+1838,Pacific Daylight Time ( PDT
+1839,24:00
+1840,sacrificing
+1841,DST
+1842,morning sunlight
+1843,synchronously resetting
+1844,climate ,
+1845,roughly equal
+1846,$ 200 million
+1847,ad hoc efforts
+1848,draft legislation
+1849,temporarily abandoned during Ramadan ( the month
+1850,North American mnemonic
+1851,morning activities
+1852,UTC
+1853,Peter Wellington , introduced the Daylight Saving for South East Queensland Referendum Bill 2010 into
+1854,studies have suggested that DST increases motor fuel consumption . The 2008
+1855,26 October 2014
+1856,Mondays after the switch to
+1857,year-round
+1858,higher latitudes
+1859,135° W ) with DST , so it is slightly more than two hours
+1860,the local time
+1861,complicate timekeeping
+1862,safety officials encourage citizens to use the two
+1863,incandescent lighting
+1864,the US House of Representatives
+1865,POSIX
+1866,hour
+1867,01:00:00 through 01:59:59
+1868,home fires . Similar
+1869,limitations have caused problems . For example , before 2005
+1870,sunrise times
+1871,30 April 1916
+1872,09:02 solar
+1873,CET ) becomes Central
+1874,UTC time stamp , but displays it corrected to local—or seasonal—time
+1875,Canadian location observing DST , a single Vista setting supports both 1987–2006 and post-2006 time
+1876,1966 . In May 1965
+1877,1907 proposal used the term daylight saving , but by 1911 the term summer
+1878,causing individuals to rise earlier
+1879,various jurisdictions
+1880,Minneapolis
+1881,carbon monoxide
+1882,Jovi
+1883,blues rockers
+1884,80s
+1885,1958
+1886,1969
+1887,Mötley Crüe
+1888,Jovi
+1889,1980s
+1890,17 million copies , outperforming anything in Coverdale 's or Deep Purple 's catalogue
+1891,1974–75
+1892,1958
+1893,1971
+1894,1998 album Van Halen III
+1895,platinum Ballbreaker
+1896,Ballbreaker
+1897,St. ( 1972 ) . Initially receiving mixed reviews
+1898,17 million
+1899,towards pop
+1900,Brian Johnson
+1901,Irish band
+1902,Brian Johnson
+1903,1990
+1904,US and Britpop
+1905,Vacation
+1906,1998
+1907,Bon Scott , the lead singer of AC/DC , and John Bonham
+1908,Fellow Australians
+1909,double
+1910,1978
+1911,`` Louie Louie
+1912,17 million copies , outperforming anything in Coverdale 's or Deep Purple 's catalogue
+1913,John Bonham
+1914,San Francisco
+1915,towards pop
+1916,loud , aggressive rock music . The electric
+1917,1993
+1918,towards pop
+1919,towards pop
+1920,1981 Def Leppard released their second album High 'n ' Dry , mixing glam-rock
+1921,Mötley Crüe
+1922,was whittled
+1923,guitar solos
+1924,snare , sometimes using cymbals for emphasis . The bass guitar
+1925,was whittled
+1926,1997–2006 and Dio 2006–2010
+1927,hardcore punk
+1928,was whittled
+1929,12 million
+1930,1978 , Van Halen emerged from the Los
+1931,up 1987
+1932,Jovi
+1933,Slash left in 1996 , followed by bassist
+1934,1981
+1935,Sweden 's
+1936,double platinum-certified album Crush
+1937,1995
+1938,1998
+1939,1998
+1940,platinum-certified Stiff Upper Lip ( 2000 ) Aerosmith released a number two platinum
+1941,1990 ) , Guns N ' Roses ' Use Your Illusion I
+1942,November 1989
+1943,large amounts of bandwidth
+1944,12 March 2015
+1945,Tom Wheeler
+1946,virtual ISP
+1947,virtual server
+1948,municipal broadband
+1949,4 years
+1950,1995
+1951,WISP
+1952,intelligence agencies
+1953,upstream ISPs
+1954,mailbox provider
+1955,services typically provided by ISPs include Internet access , Internet transit
+1956,Tom Wheeler
+1957,charge
+1958,ISPs
+1959,ISPs
+1960,provider
+1961,incurring charges
+1962,National Security Agency
+1963,others are not
+1964,a wholesale ISP in this context
+1965,12 March 2015
+1966,large
+1967,Internet service providers
+1968,email servers
+1969,Lawrence
+1970,1890 , and has played in the Orange Bowl three
+1971,68th
+1972,World War II
+1973,1924
+1974,crimson and royal blue
+1975,Amos Adams Lawrence donated $ 10,000
+1976,62
+1977,Overland Park
+1978,1863
+1979,November 2 , 1863
+1980,Lawrence
+1981,public service of the University
+1982,fall 2014 ; an additional 3,371
+1983,U.S. News & World Report 's 2016 rankings
+1984,Emporia
+1985,seven locations ) . The KU Bookstore is the official bookstore
+1986,2,100
+1987,Overland Park
+1988,30,000
+1989,Edwards
+1990,USN &
+1991,Kansas Public Radio station KANU
+1992,23,597
+1993,KU
+1994,1890
+1995,commencement and convocation
+1996,1891
+1997,Poetry Book
+1998,thirteen National Championships : five
+1999,Spencer Research Library , and Anschutz Library , which commemorates the businessman Philip Anschutz
+2000,Overland Park
+2001,1926
+2002,seven locations ) . The KU Bookstore is the official bookstore
+2003,KU
+2004,1898
+2005,2013 semester , there were 3,349
+2006,Kansas City , Kansas . The Edwards Campus is in Overland Park
+2007,graduate study . As of the Fall 2013 semester
+2008,seven locations ) . The KU Bookstore is the official bookstore of KU
+2009,KU
+2010,11th
+2011,businessman Philip
+2012,48
+2013,1924
+2014,1924 and currently has more than 80 faculty members and approximately 1500
+2015,Planning
+2016,2,100
+2017,Lawrence
+2018,1891
+2019,philanthropic
+2020,KU
+2021,university houses
+2022,three schools
+2023,1890 , and has played in the Orange Bowl three times : 1948 , 1968
+2024,1898
+2025,11th among all undergraduate architecture programs in the U.S in 2012
+2026,Mount Oread
+2027,23,597 students in fall 2014 ; an additional 3,371
+2028,KU
+2029,1890 , and has played in the Orange Bowl three times : 1948 , 1968
+2030,Edwards Campus is in Overland Park
+2031,1891
+2032,KU Endowment
+2033,Rim Rock Farm
+2034,48 months
+2035,four
+2036,Nike , and a new $ 40.2 million seven-year
+2037,3,349
+2038,William Randolph
+2039,thirteen National Championships : five in men 's basketball ( two Helms Foundation
+2040,1924
+2041,1912
+2042,seven locations
+2043,1981–82 Copeland Award
+2044,1891
+2045,William Randolph
+2046,former dean James
+2047,2,100
+2048,Overland Park
+2049,university houses the following public broadcasting stations : KJHK
+2050,January 2011
+2051,Semester 1965
+2052,Jayhawks
+2053,seven
+2054,1891
+2055,seven locations ) . The KU Bookstore is the official bookstore
+2056,tournament 5
+2057,KU
+2058,1912
+2059,1863
+2060,2 episodes shown every evening at 17:00
+2061,2A
+2062,7 June 1946 at 15:00
+2063,BBC also introduced Ceefax , the first teletext service , starting in 1974
+2064,7 June 1946 at 15:00 . Jasmine Bligh
+2065,1967 Tom and Jerry
+2066,BBC
+2067,7 June 1946 at 15:00
+2068,17:16
+2069,30 September 1929
+2070,two systems
+2071,1974
+2072,2 August 1932
+2073,405-line Marconi-EMI
+2074,annually
+2075,30 March
+2076,afternoon everybody
+2077,first controller , Sir David Attenborough
+2078,7
+2079,August , regular BBC television broadcasts officially resumed on 1 October 1936
+2080,7 June 1946 at 15:00
+2081,30 March
+2082,Dè
+2083,30 %
+2084,2000
+2085,30 September 1929
+2086,7 June 1946 at 15:00
+2087,7 June 1946 at 15:00 . Jasmine Bligh
+2088,7 June 1946 at 15:00 . Jasmine Bligh
+2089,1967
+2090,afternoon everybody
+2091,2013
+2092,7 June 1946 at 15:00
+2093,2013
+2094,7 June 1946 at 15:00 . Jasmine Bligh
+2095,BBC
+2096,Angels won a BAFTA award . Little Angels
+2097,drama
+2098,7 June 1946 at 15:00 . Jasmine Bligh
+2099,John Logie Baird began in 1929
+2100,7 June 1946 at 15:00
+2101,afternoon everybody
+2102,20 April 1964
+2103,October 1936
+2104,general entertainment channel , which operated between December 2004 and April 2006
+2105,Sir David
+2106,afternoon everybody . How are you ? Do you remember me , Jasmine Bligh
+2107,7 June 1946 at 15:00 . Jasmine Bligh
+2108,CBBC
+2109,Jana Bennett
+2110,daily programmes for its Gaelic-speaking viewers
+2111,mechanical camera for filmed programming and Farnsworth image dissector cameras
+2112,1974
+2113,afternoon everybody
+2114,7 June 1946 at 15:00
+2115,7 June 1946 at 15:00
+2116,April 1964
+2117,resumed on 1 October
+2118,afternoon everybody . How are you ? Do you remember me , Jasmine Bligh
+2119,BBC2
+2120,late 2006
+2121,2006
+2122,VHF
+2123,drama
+2124,7 June 1946 at 15:00
+2125,2008
+2126,2013
+2127,2 November 1936
+2128,7 June 1946 at 15:00
+2129,405-line interlaced
+2130,20 April 1964
+2131,two
+2132,2013
+2133,February 2016
+2134,afternoon everybody
+2135,7 June 1946 at 15:00 . Jasmine Bligh
+2136,5 July 2004 , the BBC celebrated the fiftieth anniversary of its television news bulletins
+2137,1950s
+2138,7 June 1946 at 15:00 . Jasmine Bligh
+2139,5 July 2004 , the BBC celebrated the fiftieth anniversary of its television news bulletins
+2140,1950s
+2141,Lime Grove Studios
+2142,general entertainment channel
+2143,1000
+2144,7 June 1946 at 15:00
+2145,1967
+2146,5 July 2004
+2147,the genetic groups in the gradation of miscegenation
+2148,further incentive to categorize human groups in order to justify the subordination of African slaves
+2149,`` color-blind
+2150,sociopolitically
+2151,beliefs about
+2152,geographic gradations
+2153,28–37 %
+2154,43 %
+2155,Michelle Alexander
+2156,analysis
+2157,disparities
+2158,Ethiopian race ( later termed Negroid
+2159,United States
+2160,anthropologist William C.
+2161,individual
+2162,multilocus genetic data
+2163,Hispanic/Latino
+2164,physical anthropologists
+2165,multilocus genetic data
+2166,93 %
+2167,scientific racism
+2168,who affirmed these ratios , thus concluded neither `` race '' nor `` subspecies
+2169,significant variable
+2170,geographic or genetic
+2171,forensic
+2172,diversity exists
+2173,level of difference that
+2174,ancestral population
+2175,federal
+2176,Hispanic '' . The
+2177,probability
+2178,Latin America where people of high quantity
+2179,neighboring
+2180,physical anthropology have rejected race as a valid concept : from 1932 to 1976
+2181,Brazil reflects the extent of miscegenation
+2182,1932 to 1976
+2183,in regards to their intellect , and imbued with unnatural
+2184,be imperfect ,
+2185,2002–2003
+2186,47.7 % and 42.4 %
+2187,favourably
+2188,1992
+2189,–
+2190,Ethiopian race ( later termed Negroid
+2191,rigid descent rule
+2192,Forensic physical anthropologist
+2193,1949
+2194,heritable morphological
+2195,Criminal justice agencies in England and Wales use at least two
+2196,categorization is achieved . In this sense , races are said to be social constructs
+2197,Rodney Kirk
+2198,et al.
+2199,geneticists
+2200,Africa were sent to Brazil , totalizing roughly 3.5 million
+2201,race
+2202,sociopolitically
+2203,contrast , biology textbooks did not undergo such a reversal but many instead dropped their
+2204,10 %
+2205,if one had chosen other sampling patterns
+2206,exploration and conquest which
+2207,'racial origin
+2208,2000
+2209,racial
+2210,tragedy
+2211,fuzzy
+2212,This effectively
+2213,1978
+2214,subspecies
+2215,multilocus
+2216,East Asians owe their relatively light skin to different mutations
+2217,microevolutionary divergence
+2218,heritable morphological
+2219,significant number of modern anthropologists and biologists
+2220,700.000
+2221,Cladistics
+2222,diagnosis
+2223,Population geneticists
+2224,I
+2225,the United States
+2226,impact adversely
+2227,Mass incarceration
+2228,racist mindsets
+2229,Julien-Joseph Virey
+2230,Kohanim
+2231,15 %
+2232,28–37 %
+2233,43 %
+2234,apprehend
+2235,the biggest difference in health outcomes even for diseases that have `` race-specific
+2236,cranial
+2237,established political relations
+2238,judgment
+2239,beta-S hemoglobin
+2240,populations is to measure genetic
+2241,graded
+2242,`` seems
+2243,Hispanic
+2244,Loring Brace , the philosophers Jonathan Kaplan and Rasmus Winther
+2245,85 %
+2246,Julien-Joseph Virey
+2247,Duke University
+2248,ancestry
+2249,assignments is admixture . Many
+2250,85 %
+2251,locks people not only behind actual bars in actual prisons
+2252,five percent
+2253,physical
+2254,categorization is achieved
+2255,George W.
+2256,caboclos
+2257,2001 Census when individuals identify themselves as belonging to
+2258,28–37 %
+2259,Acta Anthropologica Sinica
+2260,five
+2261,, anthropologist Frank Livingstone 's conclusion
+2262,0.15–0.25
+2263,essentialist taxonomic
+2264,science '' , she argues ,
+2265,biologically different could be considered a subspecies
+2266,mitochondrial DNA or Y
+2267,inspection
+2268,typology
+2269,geneticist
+2270,versus self-description , we found 99.9 % concordance
+2271,Ethiopian
+2272,groups would
+2273,consensus that the racial categories that are common in everyday
+2274,the 1960s
+2275,replies
+2276,conceptual problems with using cladistics to support concepts of race
+2277,consensus
+2278,1.5
+2279,term race
+2280,mid-20th-century anthropologist
+2281,subspecies
+2282,found
+2283,microevolutionary divergence
+2284,pertain to different racial groups
+2285,20th century
+2286,classification
+2287,99 %
+2288,three
+2289,African
+2290,a color-coded system
+2291,heritable
+2292,3.5 million
+2293,overcrowded prisons
+2294,85 %
+2295,65 and 80 %
+2296,sensibly pass
+2297,two broad types of definitions for populations
+2298,race , but use it to mean a population , clade , or haplogroup
+2299,1949
+2300,The European
+2301,1775
+2302,whites
+2303,about 50 %
+2304,Caucasians
+2305,85 %
+2306,widespread
+2307,85 %
+2308,85 %
+2309,anthropologist Norman Sauer
+2310,classify people , and how the race concept is used , is a matter of
+2311,thousands
+2312,had abolitionist sympathies
+2313,high school biology
+2314,clinal across
+2315,physical anthropology
+2316,skin-lighting mutation
+2317,Discordant
+2318,categorization is achieved
+2319,Georges Buffon , Petrus Camper and Christoph
+2320,the
+2321,polygenism
+2322,Cladistics
+2323,admixture
+2324,melanin
+2325,race
+2326,Dr. Livingstone that if races have to be 'discrete units
+2327,Yoruba and Han
+2328,18th century the differences among human groups became a focus of scientific investigation
+2329,77
+2330,1992 article , anthropologist Norman Sauer
+2331,all non-African populations derive , but more than that , non-African
+2332,laws promulgated
+2333,Hispanic '' as an ethnonym emerged in the 20th century with the rise of migration
+2334,attributions
+2335,1992 article , anthropologist Norman Sauer
+2336,certain genetic
+2337,85 %
+2338,sociopolitical contexts , and may be the effect
+2339,an outgroup
+2340,populations . However , others have noticed that group variation was relatively similar to the
+2341,racial classifications
+2342,countered that FST should not be used as a marker of subspecies status
+2343,racial
+2344,almost as likely to be more similar to each
+2345,1684
+2346,28–37 %
+2347,west Eurasian
+2348,more prevalent
+2349,1970s
+2350,correlated with biology perfectly
+2351,, in 1996 , the European Parliament adopted a resolution stating that ``
+2352,social cohesion
+2353,ethnic diversity
+2354,race concept
+2355,one
+2356,et al . ( 2007 ) have argued that even when individuals can be reliably
+2357,monophyletic ( cleanly divided
+2358,2001 Census
+2359,19th century
+2360,ancestry
+2361,most of whom speak the English language but are not necessarily of English descent
+2362,considerable suffering
+2363,non-race
+2364,England by historian
+2365,Cladistics
+2366,scientific community
+2367,0.1
+2368,ethnicity
+2369,geographical location
+2370,categories
+2371,2 million
+2372,biological traits
+2373,Rachel Caspari
+2374,skin-lighting
+2375,concept
+2376,1.5 million
+2377,subspecies
+2378,average 85 %
+2379,Stanford University School of Medicine
+2380,1978 , Sewall Wright
+2381,general appearance
+2382,Neolithic Revolution '' . It ended when metal tools became widespread
+2383,3600 and 3000
+2384,southeastern Turkey
+2385,daub
+2386,egalitarian society
+2387,fortified settlements at Linearbandkeramik
+2388,more hierarchical than the Paleolithic
+2389,United States it occurred from 500
+2390,shelter of the early people changed dramatically from the paleolithic
+2391,3,000
+2392,Eurasia
+2393,wild cereals
+2394,Formative stage
+2395,6,500 BC
+2396,6,000 BC
+2397,Aleppo
+2398,labour and inter-group
+2399,Neolithic 1
+2400,the climatic changes associated with the Younger Dryas
+2401,2012
+2402,Iron Age
+2403,far-reaching shift in human subsistence and lifestyle
+2404,from wattle and daub
+2405,three
+2406,Levant
+2407,pastoralists
+2408,dramatic increase in population and development of large villages supported by agriculture
+2409,Anthropomorphic figurines
+2410,6,500 BC
+2411,mud-brick architecture and other Neolithic cultural features
+2412,southeastern Turkey
+2413,farmers
+2414,goats
+2415,labour and inter-group
+2416,Neolithic Revolution '' . It ended when metal tools became widespread
+2417,6,500 BC
+2418,farmers
+2419,fertile crescent
+2420,pottery
+2421,7,600-6,900 BC , late PPNB ( PPNB récent
+2422,sites
+2423,agriculture
+2424,daub
+2425,6,000 BC
+2426,domestication
+2427,9,400 BC a settlement was established in Tell Qaramel , 10 miles north of Aleppo
+2428,6,000 BC
+2429,signatory parties
+2430,constitutional review and enjoy the same hierarchical position as ordinary legislation ( leis ordinárias
+2431,boilerplate clause about how their representatives have communicated ( or exchanged
+2432,two-thirds
+2433,relevance
+2434,sovereignty
+2435,chapter headings
+2436,international law
+2437,February 624
+2438,sovereignty
+2439,10:1
+2440,adoption
+2441,remaining
+2442,surrendered
+2443,mutual
+2444,breach
+2445,extremely disadvantageous
+2446,complaint . Consent
+2447,entitling the Europeans to land ownership
+2448,unaccepting
+2449,autonomy
+2450,UNFCCC
+2451,multi-lateral
+2452,Locarno
+2453,angel Gabriel . Al-Waqidi claims Muhammad had a treaty with the tribe
+2454,paragraph
+2455,thereof is condemned under international law , the act will not assume international legality
+2456,UNFCCC
+2457,by means of a presidential decree published in the federal register
+2458,two
+2459,only temporarily binding
+2460,chapter headings
+2461,U.S.
+2462,compacts
+2463,Brazilian
+2464,reservations
+2465,treaty
+2466,articles governing where the final authentic copies of the treaty will be deposited
+2467,parties ' representatives
+2468,non-self-executing treaty
+2469,March 3
+2470,reservations
+2471,the treaty . This claim also can not be used to invalidate treaties
+2472,unaccepting
+2473,fulfill
+2474,severally—it
+2475,but its ratification
+2476,articles 84 , clause VIII , and 49
+2477,party may claim that a treaty should be terminated , even absent an express provision
+2478,reservations
+2479,1871
+2480,the United Nations
+2481,'implementing
+2482,Mabo v Queensland
+2483,and effectiveness
+2484,A treaty
+2485,subject matter
+2486,compacts
+2487,relevance
+2488,contracting parties
+2489,indigenous peoples
+2490,self-termination , meaning that the treaty is automatically terminated
+2491,negotiations
+2492,them to act on behalf of their respective states
+2493,non-self-executing
+2494,Treaties
+2495,Reid
+2496,bilateral
+2497,European colonization
+2498,corruption
+2499,parties and their
+2500,two
+2501,respective parties
+2502,a convention
+2503,tribunals and arbiters
+2504,Treaties may
+2505,invalid
+2506,congressional-executive agreements , and sole executive
+2507,regional
+2508,peremptory norm . These norms , unlike other principles of customary law
+2509,three
+2510,Rights . When North Korea
+2511,leis ordinárias
+2512,supremacy
+2513,state 's consent
+2514,corruption
+2515,local governments
+2516,bilateral treaty of course terminates the treaty . When a state withdraws
+2517,discussion
+2518,actors
+2519,invalid
+2520,one party
+2521,Consent
+2522,reservations , other states party to that treaty have the option to accept those reservations
+2523,null and void
+2524,reservations
+2525,Reservations
+2526,misunderstanding
+2527,10:1
+2528,paragraph
+2529,Iran
+2530,congressional-executive agreements , and sole executive
+2531,treaty
+2532,rectify obvious
+2533,All four
+2534,silent
+2535,corruption
+2536,Treaties
+2537,articles 84
+2538,, will invalidate
+2539,legislation
+2540,Parliament of
+2541,10:1
+2542,reservations
+2543,not automatically
+2544,course terminates
+2545,reservations
+2546,temporarily
+2547,executive agreement , congressional-executive
+2548,amended treaty
+2549,No one
+2550,international agreement . A protocol can amend the previous treaty , or add additional provisions
+2551,contracting parties
+2552,central legislative body
+2553,UN
+2554,India
+2555,'implementing
+2556,sovereignty
+2557,protocol ) , is often signaled by a clause like `` in witness whereof
+2558,thereof
+2559,protocol
+2560,siege against the Banu Qaynuqa tribe
+2561,unaccepting
+2562,Hence , nations
+2563,international law was unaccepting of treaty reservations
+2564,in different languages , that fact
+2565,bilateral treaty of course terminates the treaty . When a state withdraws
+2566,contracting parties
+2567,EU
+2568,multi-lateral
+2569,international legality
+2570,readability
+2571,caveats to a state 's acceptance of a treaty . Reservations are unilateral statements purporting
+2572,multilateral
+2573,contracting parties ' full names or sovereign titles
+2574,actors
+2575,compacts
+2576,international relations , a protocol is generally a treaty or
+2577,UN
+2578,complaint . Consent
+2579,fraudulent conduct of another party , or by the direct or indirect `` corruption
+2580,actors
+2581,president and that
+2582,siege
+2583,stripped naked
+2584,terra nullius
+2585,invalidated if there was an erroneous
+2586,actors
+2587,one party
+2588,'implementing legislation'—a
+2589,Reid v.
+2590,respective parties
+2591,2008
+2592,multi-lateral
+2593,reservations
+2594,46–53
+2595,reluctant to inquire into the internal affairs
+2596,Reservations are essentially caveats to a state 's acceptance of a treaty . Reservations
+2597,Reid
+2598,thriller movies about stuck
+2599,plus 40-50 %
+2600,1853
+2601,elevator cab
+2602,Counterweights and balances were also used to increase the lifting power of the apparatus
+2603,firefighter
+2604,Yalta
+2605,four years
+2606,underground tunnel
+2607,Werner von Siemens
+2608,low-volume hours
+2609,Double deck
+2610,rise
+2611,hydraulics
+2612,startup DigiGage
+2613,Sir William
+2614,four
+2615,MG set
+2616,Sometimes passenger elevators are used as a city transport along with funiculars
+2617,roller
+2618,mechanically separated from the lift mechanism
+2619,home furnishings
+2620,residential
+2621,hydraulic
+2622,passenger comfort
+2623,hinged wooden shaft-access
+2624,300,000
+2625,the ASME A17.2
+2626,the width of the doorway
+2627,the
+2628,low-speed
+2629,novel tourist attraction
+2630,two stops and may
+2631,moderate incoming traffic
+2632,Dumbwaiters
+2633,Dumbwaiters
+2634,four years
+2635,Multiple elevator shafts
+2636,shaft was cylindrical
+2637,1972 ASME A17.1
+2638,1990s
+2639,The elevator motor
+2640,chestnut
+2641,left which can be used as a scale to
+2642,a counterweight
+2643,elevated paying
+2644,destructive testing of a segment
+2645,environmental
+2646,docks for loading loose materials such as coal
+2647,1966
+2648,1199
+2649,eight
+2650,0–2 loss to the Republic of Ireland , on 21 September 1949
+2651,96
+2652,. This one-off
+2653,UEFA Euro 2008
+2654,February 2012
+2655,4–1
+2656,1970
+2657,England first appeared at the 1950 FIFA World Cup and have appeared in 14
+2658,STV
+2659,Football Association
+2660,21 September 1949
+2661,Germany 4–2
+2662,eight
+2663,UEFA Euro 2004
+2664,14
+2665,John Terry
+2666,1970
+2667,blue
+2668,1923
+2669,eight
+2670,bewildered Syd Owen
+2671,Ukraine
+2672,navy blue
+2673,UEFA Euro 2012
+2674,1970
+2675,1950
+2676,1950 FIFA World Cup and have appeared in 14
+2677,August 1943
+2678,2006 . In response to the 2011 drought
+2679,75 Tuvaluans
+2680,polyp activity to increase the reefs
+2681,5 September
+2682,1978
+2683,2000
+2684,18 February 2016
+2685,mid-19th century
+2686,Verisign until 2021
+2687,three
+2688,October 1972 . Cyclone Bebe submerged Funafuti
+2689,Ano
+2690,clothing
+2691,30 %
+2692,2013 Tuvalu deferred
+2693,The Tuvalu Government
+2694,kilikiti
+2695,medal
+2696,passenger/cargo ships Nivaga III and Manu Folau
+2697,26 square kilometres
+2698,July 2012
+2699,1862–63 , Peruvian ships , engaged in what became to be called the `` blackbirding
+2700,1:27
+2701,Tuvaluans
+2702,LDC
+2703,1978
+2704,cowrie
+2705,Ali
+2706,July 2013
+2707,, was severely damaged by Cyclone Pam
+2708,Funafuti
+2709,nine islands
+2710,2004–2006 ) said his government did not regard rising sea
+2711,65 %
+2712,de la Rúa
+2713,tofuga
+2714,1861
+2715,26 square kilometres
+2716,2 October 1942
+2717,Lloyd Osbourne
+2718,26 square kilometres
+2719,House of the Assembly or Fale I Fono
+2720,next European
+2721,December 1974
+2722,the Pacific Climate
+2723,mid-19th century
+2724,islands
+2725,1819
+2726,mid-19th century
+2727,1974
+2728,pulaka
+2729,PSSC
+2730,December 1974
+2731,HMS Royalist
+2732,5 September 2013
+2733,Coral Reef
+2734,1998
+2735,Funafuti
+2736,CTCs
+2737,26 square kilometres
+2738,A $ 3.50
+2739,Tuvalu
+2740,weak La Niña
+2741,2002 Earth Summit
+2742,includes staghorn corals
+2743,$ 2.2 million
+2744,July 2013 Tuvalu
+2745,Nukufetau , and Martin Kleis on Nui . By 1909
+2746,26 square kilometres
+2747,two passenger/cargo
+2748,nine islands after the work of English hydrographer Alexander George Findlay
+2749,eight
+2750,atolls
+2751,26 square kilometres
+2752,August 1943
+2753,three reef
+2754,kilikiti
+2755,1978
+2756,mobile services . Fenui
+2757,fateles
+2758,FM
+2759,three
+2760,competing traders while dryer islands
+2761,Funafuti
+2762,the supercargo
+2763,Gradual sea-level
+2764,rugby union . Tuvalu has sports organisations for athletics , badminton , tennis
+2765,fresh-water aquifer
+2766,nine islands after the work of English hydrographer Alexander George Findlay
+2767,PSSC
+2768,1974
+2769,tropical cyclones , as occurred with Cyclone Bebe
+2770,The Tuvaluan
+2771,Funafuti is the only hospital in Tuvalu
+2772,Tuvalu
+2773,2006
+2774,Tuvalu . It represents workers on foreign ships
+2775,3000
+2776,2012
+2777,measurable
+2778,nine
+2779,1975
+2780,Panel
+2781,uncertainty
+2782,Tuvaluan
+2783,1972
+2784,fresh-water aquifer
+2785,eight
+2786,26 square kilometres
+2787,assessments
+2788,graduation from least developed country ( LDC
+2789,1764
+2790,Tuvalu . Tuvaluan is of the Ellicean group of Polynesian
+2791,Funafuti
+2792,11 years for females ( 2001 ) . The adult literacy rate is 99.0 %
+2793,fresh-water aquifer
+2794,2013 Enele Sopoaga , the prime minister of Tuvalu , said that relocating Tuvaluans
+2795,Funafuti
+2796,pule o kaupule
+2797,Australia also provided water tanks
+2798,1974
+2799,1850s
+2800,Verisign until 2021 . The `` .tv
+2801,Funafuti is the only port but there is a deep-water berth
+2802,Kyoto Protocol
+2803,2002 Earth Summit in Johannesburg , South Africa and in other international fora
+2804,1.5 %
+2805,Funafuti
+2806,1972
+2807,wedding celebrations and community activities such as a fatele involving music , singing and dancing
+2808,eight
+2809,65 %
+2810,10,640
+2811,July 2012
+2812,Whibley
+2813,PARC , Jobs had negotiated a visit to see the Xerox Alto
+2814,Macintosh
+2815,early 2001 . The 68020-powered Macintosh LC
+2816,Ridley
+2817,$ 2900
+2818,Mac clone market in May 1998
+2819,1989
+2820,1993 PowerBook 165c
+2821,iMac G3 , Apple created the eMac in April 2002
+2822,confused potential buyers
+2823,14 %
+2824,1989 , Jean-Louis Gassée
+2825,1988
+2826,Intel x86-64
+2827,$ 2.5 million
+2828,the most
+2829,sale ,
+2830,9 applications under Mac OS X 10.4
+2831,1990
+2832,legacy PC operating systems . In particular ,
+2833,impending doom
+2834,replacement necessary
+2835,Intel chips
+2836,Intel 's latest CPUs before other PC manufacturers , and OS X
+2837,X 10.4
+2838,In 1993 Intel rolled out the Pentium processors as the successor
+2839,Apple 's history . In September 1986
+2840,longest-lived Macintosh in Apple 's history . In September 1986
+2841,early 2001
+2842,Jean-Louis Gassée
+2843,John Sculley
+2844,1990
+2845,co-operative
+2846,John Sculley
+2847,280,000
+2848,1990
+2849,Steve Jobs returned
+2850,1998 , Apple has largely phased out the Macintosh name
+2851,Magic
+2852,decade earlier . The Macintosh is the only mainstream computer platform to have successfully transitioned
+2853,$ 2900
+2854,$ 2.5 million
+2855,Steve Jobs
+2856,May 1990
+2857,128K
+2858,million
+2859,a credit card could take home a Macintosh
+2860,7.3 % of all computer shipments in 2010 to 9.3 % in 2011
+2861,Jef Raskin
+2862,affordable ( iMac G3 ) to upscale
+2863,John
+2864,/ˈmækᵻntɒʃ/ MAK-in-tosh
+2865,$ 5500
+2866,Macintosh platform to Intel chips
+2867,clones
+2868,1989
+2869,68040-equipped 500 series
+2870,slot between the iMac G3 and the Power Mac G4
+2871,Chris Espinosa
+2872,Mighty Mouse . While it looked like a traditional one-button
+2873,Mac OS 8
+2874,1989
+2875,early 2001
+2876,Katie Cadigan
+2877,16 %
+2878,flexible LCD flat-panel
+2879,Apple USA head
+2880,14 %
+2881,2001
+2882,2000
+2883,the Mac
+2884,6 %
+2885,Desktop
+2886,consumer trend towards smartphones
+2887,pundits
+2888,1988
+2889,certain countries
+2890,OS-based bootloader application
+2891,68030 processor came the Macintosh IIx in 1988
+2892,hardware
+2893,MacBooks are the top-selling form factors
+2894,2001
+2895,September 1979
+2896,$ 2900
+2897,third parties that ran Apple 's System 7 .
+2898,2000
+2899,Macintosh ranked third on the `` list of intended brands for desktop purchases
+2900,14 %
+2901,Mouse , which uses multi-touch gesture recognition
+2902,OS X
+2903,OS continued to evolve up to version 9.2.2
+2904,whose sales
+2905,1990
+2906,$ 5500
+2907,MacBook Pro
+2908,1990
+2909,6 percent . Figures from December 2006 , showing a market share around 6 percent
+2910,PowerPC-based Macs or EFI
+2911,version 7.7
+2912,3.36 million
+2913,Macintosh SE was released at the same time as the Macintosh II for $ 2900
+2914,iMac , MacBook Air , and Mac Mini computers
+2915,2001
+2916,7.3 %
+2917,9 applications under Mac OS X 10.4
+2918,George Crow
+2919,Macs at near native speed . Apple also released Boot Camp
+2920,rewritten
+2921,8 GB
+2922,Cube , along with
+2923,who felt
+2924,US $ 2,600
+2925,14 %
+2926,rewritten
+2927,Apple
+2928,relegated
+2929,20 MHz IIci
+2930,2006
+2931,Frogdesign .
+2932,third place . Apple 's market share further struggled
+2933,Windows 95
+2934,$ 5500
+2935,2001
+2936,September 1986
+2937,system and
+2938,9 applications
+2939,early-mid 1990s
+2940,Apple Inc. Steve Jobs introduced the original Macintosh computer on January 24
+2941,14 %
+2942,malware attacks , and malware
+2943,only System
+2944,premium all-in-ones
+2945,exponentially-expanding
+2946,seven
+2947,30 percent
+2948,CPU . All current Macs ( except for the MacBook
+2949,2006
+2950,14 %
+2951,the
+2952,1989
+2953,25 MHz
+2954,7.3 %
+2955,6.1 percent
+2956,early-mid 1990s
+2957,Allan Loren
+2958,Xerox PARC
+2959,Regis McKenna
+2960,John Sculley
+2961,68000-based
+2962,Burn
+2963,14 %
+2964,choice
+2965,FreeHand
+2966,The Macintosh ranked third on the `` list of intended brands for desktop purchases
+2967,word processor
+2968,high voltage
+2969,cheaper hardware
+2970,280,000 Macintoshes
+2971,MacBook
+2972,US $ 2,600
+2973,Windows-only software on Macs at near native speed
+2974,external third-party hardware
+2975,1998 , ClarisWorks was renamed AppleWorks
+2976,56 percent
+2977,GUIs
+2978,68040
+2979,flexible LCD flat-panel
+2980,April 1984 ,
+2981,clones
+2982,1988
+2983,Lotus , Digital Research , and Ashton-Tate
+2984,CRT
+2985,October 1984 , Apple introduced the Macintosh 512K
+2986,September 1986
+2987,new iMac
+2988,2011
+2989,Claris
+2990,2.06
+2991,Virbhadra Singh
+2992,state-owned television broadcaster
+2993,Lt
+2994,Himachal
+2995,10 %
+2996,miniature paintings
+2997,toilet
+2998,Pradesh Act 1971
+2999,multilingual state like other Indian states
+3000,Himachal Pradesh
+3001,Himachal Pradesh
+3002,25 %
+3003,hill stations
+3004,public radio station
+3005,1950
+3006,Una District adjoining the state of Punjab and 17 %
+3007,handicrafts
+3008,Virbhadra
+3009,maximum urban population of 25 %
+3010,1814–1816
+3011,issues of the district
+3012,Pradesh Act 1971
+3013,Governor Urmila
+3014,Buddhism and Sikhism
+3015,Himachal Pradesh
+3016,Wool
+3017,martial tribe , came to power in Nepal in the year 1768
+3018,Sanskrit
+3019,hydro electric resources
+3020,state-run BSNL and by other private companies . Dial-up access
+3021,Gupta Empire
+3022,1948
+3023,₹ 254
+3024,technological advancements
+3025,Prem Kumar Dhumal
+3026,₹ 52.7 million
+3027,martial tribe , came to power in Nepal in the year 1768
+3028,Gurkhas
+3029,Shimla
+3030,Himachal Pradesh Act 1971
+3031,achieve the goal
+3032,towns
+3033,Himachal Pradesh
+3034,Nehru Government Engineering College started in 2006
+3035,handicrafts
+3036,1948
+3037,2.18
+3038,₹ 52.7 million
+3039,Pradesh Act 1971
+3040,plebeians
+3041,deabusque omnibus
+3042,skeptical among Rome 's intellectual elite such as Cicero , who was an augur
+3043,apparatus was
+3044,men
+3045,non-Christians
+3046,Milan ( 313
+3047,emperors
+3048,bearers
+3049,Christian orthodoxy
+3050,witnessed and certified sacrifice to `` ancestral gods
+3051,foreign cult , outlawed its assemblies and urged
+3052,superstition
+3053,the Mediterranean world
+3054,underworld gods
+3055,augury
+3056,Trojan cult
+3057,orthodoxy and clearly differentiate it from Christian heresies
+3058,di immortales
+3059,Nero accused the Christians as convenient scapegoats
+3060,prayer
+3061,ancient
+3062,emperors . Augustus
+3063,the Mediterranean world
+3064,and his family . Religious law was collegial
+3065,integrated system
+3066,men
+3067,drunken
+3068,orthodoxy and clearly differentiate it from Christian heresies
+3069,polemicists
+3070,upper heavens
+3071,orthodoxy and clearly differentiate it from Christian heresies
+3072,treason ; both were Christians
+3073,Rome
+3074,rex sacrorum
+3075,non-sacred
+3076,spring ( see ver sacrum ) , to be rendered after five
+3077,Epulum Jovis
+3078,women only . The rites of the Bona
+3079,treason ; both were Christians
+3080,limited by law
+3081,orthodoxy and clearly differentiate it from Christian heresies
+3082,emperor Claudius
+3083,religionists
+3084,Dionysus
+3085,Carthaginians and Gauls . Rome banned it on several occasions under extreme penalty
+3086,Augustus
+3087,enforcing orthodoxy . Constantine called all the Christian bishops
+3088,two annually elected
+3089,Jupiter Latiaris
+3090,inevitable outcome
+3091,Augustus
+3092,dedications made by Romans to local gods
+3093,imprisonment and the third
+3094,dedications made by Romans to local gods . By the height
+3095,Lares
+3096,Roman gladiatorial
+3097,ritual substances for use in public and private cults
+3098,Others complied
+3099,Decius Mus
+3100,the legions
+3101,Roman
+3102,Romulus
+3103,Archaeology
+3104,mid-to-late Republican era , and probably much earlier
+3105,half Rome 's population were slave or free non-citizens
+3106,ludi
+3107,hitherto
+3108,Haruspicy
+3109,orthodoxy and clearly differentiate it from Christian heresies
+3110,Others complied
+3111,augur . The original meaning of the Latin word
+3112,everyday world , many individuals sought to divine the future
+3113,Capitolium
+3114,collapse
+3115,polemicists
+3116,pontifex maximus
+3117,around religious observances . Women , slaves , and
+3118,malum carmen
+3119,observance were superstitio
+3120,Rome itself claimed the favour
+3121,prone
+3122,great crisis
+3123,ofﬁcials who were Christians , re-enslaved imperial
+3124,regal
+3125,collapse , state religion had adapted to support the new regime of the emperors
+3126,361
+3127,consular prerogative
+3128,Venus Genetrix
+3129,buried alive
+3130,Archaeology
+3131,di superi
+3132,non-sacred
+3133,Imported
+3134,collegia by Julius Caesar
+3135,emperors
+3136,public gaze
+3137,Approximately half
+3138,deified
+3139,ludi
+3140,16 BC
+3141,Nicene Christianity
+3142,apotheosized mortals
+3143,treason
+3144,dedications
+3145,spectacular
+3146,extraordinary sacrifice
+3147,altars to multiple deities
+3148,ofﬁcials
+3149,81 BC characterised human sacrifice as murder committed for magical purposes . Pliny
+3150,favoured
+3151,gods , mankind and destiny
+3152,Capitolinus
+3153,Roman
+3154,six
+3155,Roman morality
+3156,principate
+3157,apotheosized mortals
+3158,independent power
+3159,and his family
+3160,and acolytes
+3161,forbade services
+3162,entrails
+3163,forty annual
+3164,rulers as divine benefactors
+3165,Vitruvius always uses the word templum
+3166,di immortales
+3167,the devotio
+3168,Divine consideration might
+3169,forty annual
+3170,king
+3171,enjoined
+3172,magi
+3173,divinely approved and constitutional
+3174,Public priests were appointed by the collegia
+3175,rotting corpses
+3176,Julius Caesar
+3177,devotio
+3178,six women devoted to the cultivation of Vesta , goddess of the hearth
+3179,had appropriated Rome
+3180,pontifex maximus
+3181,emperor
+3182,as a dominant power , many new temples were built by
+3183,examination of entrails after sacrifice
+3184,sacrifice
+3185,Thessalian witch Erichtho
+3186,spring
+3187,Public priests were appointed by the collegia
+3188,conspiratorial ( coniuratio
+3189,chastity
+3190,Diana
+3191,250 defixiones
+3192,equated with Father Liber
+3193,religious vows
+3194,Nicene Creed
+3195,defense
+3196,votive deposits
+3197,six
+3198,Pulcher
+3199,Rome as a republic with annually elected magistrates
+3200,Emperor Nero
+3201,legend of Rome 's
+3202,state-funded
+3203,Julius Caesar
+3204,religious vows
+3205,long-form
+3206,the devotio carried out by Decius Mus
+3207,divine
+3208,di inferi
+3209,public cult
+3210,dedications
+3211,long-form
+3212,state-funded
+3213,Roman
+3214,witnessed and certified
+3215,buried alive
+3216,Pliny
+3217,everyday life by commonplace
+3218,Archaeology
+3219,mater familias
+3220,Public priests were appointed by the collegia
+3221,customary
+3222,infernal gods
+3223,Public
+3224,religious observance
+3225,non-sacred
+3226,magi
+3227,mythology and philosophy
+3228,Bona Dea
+3229,useless
+3230,Vesta
+3231,triumphed under the signum
+3232,Prodigies
+3233,Judaism , but in 380
+3234,oligochaetes
+3235,crawl or swim
+3236,invertebrates
+3237,soft-bodied
+3238,245
+3239,farm them in order
+3240,coelomata contains
+3241,everted
+3242,hairs
+3243,mature clitellates
+3244,worms are more effective bait than artificial flies
+3245,deuterostomes
+3246,2007 Torsten Struck and colleagues compared 3 genes in 81 taxa
+3247,542 million
+3248,China around 30 AD , India around 200 AD
+3249,one-cell deep epidermis
+3250,paired , ciliated structures found only in polychaetes , and are thought to be chemosensors
+3251,peristalsis
+3252,form images . The compound eyes probably evolved independently of arthropods ' eyes
+3253,oligochaetes and oligochaetes
+3254,peristalsis
+3255,two
+3256,the blood plasma
+3257,segmentation . In species with well-developed septa , the blood circulates
+3258,stages
+3259,dermis
+3260,vertical mesenteries
+3261,soft-bodied
+3262,prostomium ( head ) ; a small area round the trochophore 's anus
+3263,mesothelium
+3264,soluble waste products
+3265,the medically dubious practise
+3266,microvilli ,
+3267,trochophore
+3268,fertility
+3269,fossils are rare
+3270,determinate cleavage
+3271,cocoon
+3272,peristalsis
+3273,soft-bodied
+3274,1997
+3275,peristalsis
+3276,soil fertility
+3277,peristalsis
+3278,prostomium
+3279,deuterostomes
+3280,collagen fibers
+3281,below and behind it . The brains of polychaetes
+3282,Australia and a little older than the Burgess Shale
+3283,ovaries
+3284,Terrestrial annelids
+3285,China
+3286,China
+3287,neuron controls a group of muscle fibers
+3288,200 AD
+3289,15 %
+3290,shortening
+3291,as annelids were the polychaetes
+3292,200 AD
+3293,soft-bodied
+3294,clitellates
+3295,oligochaetes
+3296,Charles Darwin
+3297,they hatch
+3298,vertical mesenteries
+3299,mid-19th century
+3300,1964
+3301,felonies and misdemeanors
+3302,U.S. courts often cite pre-Revolution
+3303,broad rulemaking authority
+3304,56.3 million traffic cases , 20.4 million
+3305,Indian reservations
+3306,property law , contract
+3307,5.9 million domestic relations cases , and 1.9 million juvenile cases . In 2010
+3308,stare decisis
+3309,56.3 million traffic cases , 20.4 million
+3310,contract
+3311,statutes , an executive branch that promulgates state regulations pursuant to statutory authorization
+3312,supreme
+3313,Chevron deference
+3314,regulations promulgated
+3315,boundaries of federal law , which consists of acts of Congress
+3316,fifty American states are separate sovereigns
+3317,5.9 million domestic relations cases , and 1.9 million juvenile cases . In 2010
+3318,contract
+3319,legislative branch which enacts state statutes , an executive branch
+3320,English
+3321,judicial glosses on the law of warranty . In 1963
+3322,post-Revolution Commonwealth
+3323,federal
+3324,v. Tompkins
+3325,Constitution
+3326,24
+3327,property law , contract
+3328,stare decisis , no sensible lower
+3329,eighteen
+3330,diverged significantly
+3331,procedure has several notable features , including extensive pretrial discovery , heavy reliance
+3332,56.3 million traffic cases , 20.4 million
+3333,international treaties
+3334,vested in them the implied judicial power of common law courts to formulate persuasive
+3335,slip law
+3336,uncodified forms of law , of which the most important is the United States Constitution
+3337,sovereigns
+3338,Erie , deference is one-way
+3339,executive branch
+3340,felony convictions result in lengthy prison sentences as well as subsequent probation , large fines
+3341,eighteen
+3342,on , American courts , even after the Revolution
+3343,Federal law
+3344,Congress has enacted laws expressly refusing to regulate them
+3345,infractions
+3346,persuasive
+3347,56.3 million traffic cases , 20.4 million
+3348,Tort
+3349,Federal law originates
+3350,56.3 million traffic cases , 20.4 million
+3351,stare decisis
+3352,citizens broader rights than the federal Constitution
+3353,statutes , an executive branch that promulgates state regulations pursuant to statutory authorization
+3354,transactions
+3355,decisional
+3356,tariffs , intellectual property ( specifically patents and copyrights ) , and mail
+3357,uncodified
+3358,statutes
+3359,After the President
+3360,1964
+3361,felonies and misdemeanors
+3362,private
+3363,Tort
+3364,United States . The Constitution
+3365,judiciary
+3366,misdemeanors
+3367,5.9 million domestic relations cases , and 1.9 million juvenile cases . In 2010
+3368,subsequent statute
+3369,19.0 million
+3370,1810
+3371,broader rights than the federal Constitution
+3372,reception statutes
+3373,56.3 million traffic cases , 20.4 million
+3374,session
+3375,code
+3376,regular verbatim publication of U.S.
+3377,fifty American states are separate sovereigns
+3378,Louisiana
+3379,income tax , mail theft
+3380,preemption
+3381,judicial glosses on the law of warranty . In 1963
+3382,20th century , broad interpretations of the Commerce and Spending Clauses
+3383,Louisiana
+3384,heavy reliance
+3385,legislative
+3386,stare decisis
+3387,torts
+3388,19th century
+3389,relevant statutes
+3390,1810
+3391,law
+3392,enacts statutes
+3393,promulgate regulations
+3394,statute . Many federal and state statutes have remained on the books for decades
+3395,President Mircea
+3396,onward , Beijing
+3397,Latin-derived
+3398,B is mutually intelligible
+3399,bigger people , which must content itself with regional autonomy
+3400,Sardinian
+3401,Italy
+3402,nationalism
+3403,sociolinguistic notion
+3404,sociolect
+3405,Ukraine
+3406,2003 a Moldovan–Romanian
+3407,Joseph Wright
+3408,countryside
+3409,Yiddish linguist
+3410,Germany
+3411,Literary Arabic
+3412,early 20th century , the vast conscription
+3413,Italy
+3414,Whites
+3415,the 1860s
+3416,latent
+3417,1945 , p. 13
+3418,Ion Bărbuţă
+3419,Risorgimento , proponents of Italian republicanism and Italian nationalism , such as Alessandro Manzoni
+3420,Heinz Kloss
+3421,Latin-based
+3422,standardized dialect or `` standard language
+3423,German Empire
+3424,French Revolution
+3425,Lombardic alpine
+3426,Latin-based Romance languages
+3427,Arabic
+3428,linguists
+3429,the South . In cities , dialects are less common than on the countryside
+3430,seldom
+3431,Bulgarian
+3432,Scouse and Tyke
+3433,in
+3434,linguists
+3435,standard dialect
+3436,another language . Perhaps the most common is `` variety '' ; `` lect
+3437,Italy
+3438,the Entente
+3439,pronunciation
+3440,languoid
+3441,linguistic criteria
+3442,Latin separately and individually from one another and independently of standard Italian , long prior
+3443,nonstandard dialect , like a standard dialect , has a complete vocabulary
+3444,vocabulary , grammar , and pronunciation ( phonology
+3445,standard dialect
+3446,Germany
+3447,Italian
+3448,strong tendencies towards an ausbau
+3449,upper
+3450,the 1860s
+3451,Sardinia
+3452,Tsarist Government of the Russian Empire
+3453,language— '' everybody
+3454,avere
+3455,Chinese characters
+3456,the Caribbean
+3457,strict linguistic sense
+3458,British
+3459,German
+3460,South . In cities , dialects are less common than on the countryside
+3461,lect
+3462,less educated Italian
+3463,South . In cities , dialects are less common than on the countryside
+3464,Italy
+3465,Yiddish linguist Max Weinreich published the expression
+3466,Heinz Kloss
+3467,dialetti
+3468,latent
+3469,Italians from all regions
+3470,Sciences of Moldova , Ion Bărbuţă
+3471,Australian English
+3472,Philippine
+3473,talking
+3474,blue
+3475,, sacrifice
+3476,620–740
+3477,1921
+3478,blasphemy , having seven
+3479,Karl Marx
+3480,Red ochre
+3481,five
+3482,1519-1521
+3483,by high levels of the reddish
+3484,associated with communism
+3485,daytime
+3486,iron oxide
+3487,1949
+3488,Soviet flag . In the 1950s and 1960s
+3489,4000 BC . Red ochre
+3490,flag hoisted
+3491,620–740 nanometres
+3492,1960
+3493,Red
+3494,vermilion , and it came from the mineral cinnabar , a common ore of mercury
+3495,1920
+3496,Soviet flag . In the 1950s and 1960s
+3497,ambivalent
+3498,rubia tinctorum plant
+3499,vermilio
+3500,coloured
+3501,Communist Party of China took power in 1949
+3502,stripes on holidays , and the bride at a wedding wore a red shawl
+3503,1523
+3504,1792
+3505,Tyrian purple
+3506,July 17 , 1791
+3507,planet Mars
+3508,baseball cards
+3509,bright copper . It is characterized by high levels of the reddish pigment pheomelanin
+3510,1962
+3511,blue penetrates your soul '' , he wrote . `` A certain red
+3512,Thomas Gainsborough
+3513,blue . Red
+3514,Marx
+3515,serious infraction
+3516,martyrs
+3517,Zhou , Han , Jin
+3518,1869
+3519,King
+3520,1740s
+3521,1918
+3522,kermes insects , and madder lake , made from the rubia tinctorum plant
+3523,1519-1521
+3524,China
+3525,an optical effect known as Rayleigh scattering
+3526,Tyrian purple
+3527,1962
+3528,1523 Cortes
+3529,Soviet flag . In the 1950s and 1960s
+3530,Karl Marx
+3531,roughly 620–740
+3532,two
+3533,nicknamed i rossoneri
+3534,holidays , and the bride
+3535,originally redd hede ) has been in use since at least 1510
+3536,296 AD
+3537,screen . Violet
+3538,tae kwon
+3539,Ndembu
+3540,kermes insects , and madder lake , made from the rubia tinctorum plant
+3541,1869
+3542,seven
+3543,the Renaissance
+3544,seven
+3545,mixing organic dyes
+3546,hemoglobin
+3547,Green Blue
+3548,1949
+3549,courage
+3550,mixing organic dyes
+3551,Redlegs
+3552,daytime ( next to orange ) , though it is less visible at twilight
+3553,906–1279
+3554,red jerseys
+3555,blue
+3556,army
+3557,4000 BC
+3558,French Revolution , Red
+3559,1962
+3560,statues
+3561,for two
+3562,China
+3563,China , red ( simplified Chinese : 红 ; traditional Chinese
+3564,blue penetrates
+3565,rubia tinctorum plant
+3566,1950s and 1960s
+3567,39-day
+3568,4th
+3569,Rubia
+3570,red flag with a large star symbolizing the Communist Party
+3571,drying and then crushing the bodies of the females of a tiny
+3572,Cennino Cennini
+3573,620–740 nanometres
+3574,red shawl
+3575,Kermes vermilio
+3576,Kermes vermilio
+3577,India
+3578,cochineal , they had a third , carmine , which made a very fine crimson
+3579,China
+3580,holidays
+3581,chlorophyll . But in the fall , phosphate
+3582,de Lisle wrote : `` Against us they
+3583,1949
+3584,1960
+3585,coloration
+3586,Mao Zedong
+3587,1295 , Roman Catholic cardinals began to wear red costumes
+3588,planet Mars
+3589,Abbe
+3590,Beijing
+3591,mansion red
+3592,16th century
+3593,1949
+3594,blue . Red
+3595,1870
+3596,alpha males , increasingly less prominent in lower ranking
+3597,620–740
+3598,anthocyanins
+3599,planet Mars
+3600,sunset
+3601,coronations to sacrificial offerings , and weddings
+3602,Green Blue
+3603,weddings (
+3604,1789
+3605,1888
+3606,pheomelanin
+3607,1519-1521
+3608,Cao Xueqin
+3609,1920
+3610,rubia
+3611,Kokkos
+3612,1869
+3613,906–1279 ) , officials of the top three ranks wore purple clothes
+3614,highways and intersections
+3615,1949
+3616,rouge d'Adrinople
+3617,France as rouge d'Adrinople . Beginning in the 1740s

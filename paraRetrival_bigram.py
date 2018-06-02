@@ -1,7 +1,7 @@
 import json
 import nltk
 import numpy as np
-from nltk.corpus import wordnet as wn
+from util import *
 from nltk.corpus import wordnet as wn
 from nltk.corpus import stopwords
 from nltk.stem.wordnet import WordNetLemmatizer
@@ -13,76 +13,8 @@ This file is used to retrive relative paragraghs from the article.
 Using TF-IDF weights, and inverted indexes to speed up the algorithm.
 '''
 
-# define the lemmatize function
-def lmz(word):
-    lemmatizer = WordNetLemmatizer()
-    word = word.lower()
-    lemma = lemmatizer.lemmatize(word, 'v')
-    if lemma == word:
-        lemma = lemmatizer.lemmatize(word, 'n')
-    return lemma
+def main_process(fileName = 'devel.json',testing = False):
 
-# get bag-of-words from tokenized document
-def get_BOW(text):
-    BOW = dict()
-    stop_words = set(stopwords.words('english'))
-    for word in text:
-        word_lemma = lmz(word)
-        if word_lemma in stop_words:
-            continue
-        BOW[word_lemma] = BOW.get(word_lemma,0) + 1
-    return BOW
-
-def get_bigram(token_list):
-    result = list()
-    result.append('_' + token_list[0])
-    for i in range(len(token_list) - 1):
-        result.append(token_list[i] + '_' + token_list[i + 1])
-    result.append(token_list[-1] + '_')
-    return result + token_list
-
-# function for deriving count given sense
-def get_count(sense, origin_word):
-    for lemma in sense.lemmas():
-        if lemma.name() == origin_word:
-            return lemma.count()
-    return 0
-
-# function for deciding if a word is ambiguous or not
-def not_ambiguous(word):
-    syn_sets = wn.synsets(word)
-    if len(syn_sets) < 2:
-        return True
-    count_1 = 0
-    count_2 = 0
-    for synset in syn_sets:
-        count = get_count(synset, word)
-        if count > count_2:
-            if count > count_1:
-                count_2 = count_1
-                count_1 = count
-            else:
-                count_2 = count
-    if count_1 >= count_2 * 5:
-        return True
-    else:
-        return False
-
-def main_process(testing = False):
-    '''
-    load documents from json
-    [
-        {
-            docid: num
-            text: [
-                    para_1,
-                    para_2,
-                    ...
-                ]
-        },
-        ...
-    ]
-    '''
     doc = json.load(open('documents.json'))
 
     # the bag-of-words representations for each article
@@ -109,7 +41,7 @@ def main_process(testing = False):
         transformer_pair[doc_index] = (vectorizer, transformer)
 
     if testing:
-        train = json.load(open('training.json'))
+        train = json.load(open(fileName))
         success = 0
         length = 0
         for train_item in train:
@@ -119,21 +51,15 @@ def main_process(testing = False):
             score = [0] * len(doc_dict[train_item['docid']])
             word_feature_map = vectorizer.vocabulary_
             for word_from_question in question:
-                flag = True
-                if not not_ambiguous(word_from_question):
-                    flag = False
                 for index in range(len(doc_dict[train_item['docid']])):
                     if word_from_question in doc_dict[train_item['docid']][index]:
-                        if flag:
-                            score[index] += (tf_idf_matrix_reg_doc[train_item['docid']][index, word_feature_map[word_from_question]])
-                        else:
-                            score[index] += (tf_idf_matrix_reg_doc[train_item['docid']][index, word_feature_map[word_from_question]] * 2.0 / 1.6)
-            if train_item['answer_paragraph'] in np.argsort(score)[-6:]:
+                        score[index] += (tf_idf_matrix_reg_doc[train_item['docid']][index, word_feature_map[word_from_question]])
+            if train_item['answer_paragraph'] in np.argsort(score)[-2:]:
                 success += 1
             length += 1
         print('The retrival accuracy is', success * 1.0 / float(length))
     else:
-        testing = json.load(open('testing.json'))
+        testing = json.load(open(fileName))
         related_para = [None] * len(testing)
 
         for test_item in testing:
@@ -145,7 +71,8 @@ def main_process(testing = False):
                 for index in range(len(doc_dict[test_item['docid']])):
                     if word_from_question in doc_dict[test_item['docid']][index]:
                         score[index] += tf_idf_matrix_reg_doc[test_item['docid']][index, word_feature_map[word_from_question]]
-            related_para[test_item['id']] = np.argsort(score)[-5:]
+            related_para[test_item['id']] = np.argsort(score)[-2:]
+        save_obj(related_para, 'related_para_top_2')
         return related_para
 
 
